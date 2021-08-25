@@ -1,0 +1,130 @@
+2021-08-23 21:04:16,400 root - INFO:DATA PREDICTION: starting Initialization of DataPrediction object
+2021-08-23 21:04:16,402 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 21:04:16,405 root - INFO:DATA PREDICTION: started preparing data structure type based on model
+2021-08-23 21:04:16,432 root - INFO:DATA PREDICTION: Ended preparing data structure type based on model
+2021-08-23 21:04:16,448 root - INFO:DATA PREDICTION: started preparing data column names based on model
+2021-08-23 21:04:16,450 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 21:04:16,458 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 21:04:16,464 root - INFO:DATA PREDICTION: Ended preparing data column names on model
+2021-08-23 21:04:16,465 root - INFO:DATA PREDICTION: started finding cluster for each data
+2021-08-23 21:04:16,467 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 21:04:16,474 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 21:04:16,479 root - INFO:DATA PREDICTION: Ended finding cluster for each data
+2021-08-23 21:04:16,481 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 21:04:16,483 root - INFO:DATA PREDICTION: started Loading model
+2021-08-23 21:04:16,484 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 21:04:16,499 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 21:04:16,501 root - INFO:DATA PREDICTION: Ended Loading model
+2021-08-23 21:04:16,505 root - INFO:DATA PREDICTION: Ended data prediction process
+2021-08-23 21:04:16,508 root - INFO:DATA PREDICTION: Ended data prediction process
+2021-08-23 22:12:03,529 root - INFO:DATA PREDICTION: starting Initialization of DataPrediction object
+2021-08-23 22:12:03,531 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 22:12:03,534 root - INFO:DATA PREDICTION: started preparing data structure type based on model
+2021-08-23 22:12:03,553 root - INFO:DATA PREDICTION: Ended preparing data structure type based on model
+2021-08-23 22:12:03,569 root - INFO:DATA PREDICTION: started preparing data column names based on model
+2021-08-23 22:12:03,571 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 22:12:03,573 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 22:12:03,579 root - INFO:DATA PREDICTION: Ended preparing data column names on model
+2021-08-23 22:12:03,580 root - INFO:DATA PREDICTION: started finding cluster for each data
+2021-08-23 22:12:03,582 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 22:12:03,584 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 22:12:03,589 root - INFO:DATA PREDICTION: Ended finding cluster for each data
+2021-08-23 22:12:03,591 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 22:12:03,592 root - INFO:DATA PREDICTION: started Loading model
+2021-08-23 22:12:03,594 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 22:12:03,600 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 22:12:03,601 root - INFO:DATA PREDICTION: Ended Loading model
+2021-08-23 22:12:03,605 root - INFO:DATA PREDICTION: Ended data prediction process
+2021-08-23 22:12:03,607 root - INFO:DATA PREDICTION: Ended data prediction process
+2021-08-23 23:26:25,114 root - INFO:DATA PREDICTION: starting Initialization of DataPrediction object
+2021-08-23 23:26:25,133 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 23:26:25,135 root - INFO:DATA PREDICTION: started preparing data structure type based on model
+2021-08-23 23:26:25,933 root - INFO:DATA PREDICTION: Ended preparing data structure type based on model
+2021-08-23 23:26:25,948 root - INFO:DATA PREDICTION: started preparing data column names based on model
+2021-08-23 23:26:25,950 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:26:25,952 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:26:25,958 root - INFO:DATA PREDICTION: Ended preparing data column names on model
+2021-08-23 23:26:25,960 root - INFO:DATA PREDICTION: started finding cluster for each data
+2021-08-23 23:26:25,961 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:26:25,981 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:26:25,997 root - INFO:DATA PREDICTION: Ended finding cluster for each data
+2021-08-23 23:26:26,000 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 23:26:26,002 root - INFO:DATA PREDICTION: started Loading model
+2021-08-23 23:26:26,005 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:26:26,025 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:26:26,027 root - INFO:DATA PREDICTION: Ended Loading model
+2021-08-23 23:26:26,033 root - INFO:DATA PREDICTION: Ended data prediction process
+2021-08-23 23:26:26,037 root - INFO:DATA PREDICTION: Ended data prediction process
+2021-08-23 23:28:05,867 root - INFO:DATA PREDICTION: starting Initialization of DataPrediction object
+2021-08-23 23:28:05,870 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 23:28:05,872 root - INFO:DATA PREDICTION: started preparing data structure type based on model
+2021-08-23 23:28:05,887 root - ERROR:DATA PREDICTION: Error while preparing data structure type based on model ERROR:invalid literal for int() with base 10: ''
+2021-08-23 23:28:05,889 root - ERROR:DATA PREDICTION: Error during data prediction process ERROR:invalid literal for int() with base 10: ''
+2021-08-23 23:28:06,988 root - INFO:DATA PREDICTION: starting Initialization of DataPrediction object
+2021-08-23 23:28:06,990 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 23:28:06,992 root - INFO:DATA PREDICTION: started preparing data structure type based on model
+2021-08-23 23:28:07,008 root - ERROR:DATA PREDICTION: Error while preparing data structure type based on model ERROR:invalid literal for int() with base 10: ''
+2021-08-23 23:28:07,009 root - ERROR:DATA PREDICTION: Error during data prediction process ERROR:invalid literal for int() with base 10: ''
+2021-08-23 23:28:23,127 root - INFO:DATA PREDICTION: starting Initialization of DataPrediction object
+2021-08-23 23:28:23,129 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 23:28:23,131 root - INFO:DATA PREDICTION: started preparing data structure type based on model
+2021-08-23 23:28:23,147 root - ERROR:DATA PREDICTION: Error while preparing data structure type based on model ERROR:invalid literal for int() with base 10: ''
+2021-08-23 23:28:23,148 root - ERROR:DATA PREDICTION: Error during data prediction process ERROR:invalid literal for int() with base 10: ''
+2021-08-23 23:29:44,831 root - INFO:DATA PREDICTION: starting Initialization of DataPrediction object
+2021-08-23 23:29:44,833 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 23:29:44,834 root - INFO:DATA PREDICTION: started preparing data structure type based on model
+2021-08-23 23:29:44,847 root - ERROR:DATA PREDICTION: Error while preparing data structure type based on model ERROR:invalid literal for int() with base 10: ''
+2021-08-23 23:29:44,848 root - ERROR:DATA PREDICTION: Error during data prediction process ERROR:invalid literal for int() with base 10: ''
+2021-08-23 23:29:52,986 root - INFO:DATA PREDICTION: starting Initialization of DataPrediction object
+2021-08-23 23:29:52,988 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 23:29:52,990 root - INFO:DATA PREDICTION: started preparing data structure type based on model
+2021-08-23 23:29:53,005 root - ERROR:DATA PREDICTION: Error while preparing data structure type based on model ERROR:invalid literal for int() with base 10: ''
+2021-08-23 23:29:53,007 root - ERROR:DATA PREDICTION: Error during data prediction process ERROR:invalid literal for int() with base 10: ''
+2021-08-23 23:30:21,985 root - INFO:DATA PREDICTION: starting Initialization of DataPrediction object
+2021-08-23 23:30:21,987 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 23:30:21,989 root - INFO:DATA PREDICTION: started preparing data structure type based on model
+2021-08-23 23:30:22,002 root - ERROR:DATA PREDICTION: Error while preparing data structure type based on model ERROR:invalid literal for int() with base 10: ''
+2021-08-23 23:30:22,003 root - ERROR:DATA PREDICTION: Error during data prediction process ERROR:invalid literal for int() with base 10: ''
+2021-08-23 23:30:52,140 root - INFO:DATA PREDICTION: starting Initialization of DataPrediction object
+2021-08-23 23:30:52,142 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 23:30:52,144 root - INFO:DATA PREDICTION: started preparing data structure type based on model
+2021-08-23 23:30:52,159 root - ERROR:DATA PREDICTION: Error while preparing data structure type based on model ERROR:invalid literal for int() with base 10: ''
+2021-08-23 23:30:52,160 root - ERROR:DATA PREDICTION: Error during data prediction process ERROR:invalid literal for int() with base 10: ''
+2021-08-23 23:32:42,972 root - INFO:DATA PREDICTION: starting Initialization of DataPrediction object
+2021-08-23 23:32:42,974 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 23:32:42,977 root - INFO:DATA PREDICTION: started preparing data structure type based on model
+2021-08-23 23:32:42,993 root - INFO:DATA PREDICTION: Ended preparing data structure type based on model
+2021-08-23 23:32:43,010 root - INFO:DATA PREDICTION: started preparing data column names based on model
+2021-08-23 23:32:43,012 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:32:43,013 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:32:43,020 root - INFO:DATA PREDICTION: Ended preparing data column names on model
+2021-08-23 23:32:43,021 root - INFO:DATA PREDICTION: started finding cluster for each data
+2021-08-23 23:32:43,023 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:32:43,025 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:32:43,032 root - INFO:DATA PREDICTION: Ended finding cluster for each data
+2021-08-23 23:32:43,033 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 23:32:43,035 root - INFO:DATA PREDICTION: started Loading model
+2021-08-23 23:32:43,036 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:32:43,043 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:32:43,045 root - INFO:DATA PREDICTION: Ended Loading model
+2021-08-23 23:32:43,049 root - INFO:DATA PREDICTION: Ended data prediction process
+2021-08-23 23:32:43,052 root - INFO:DATA PREDICTION: Ended data prediction process
+2021-08-23 23:34:33,524 root - INFO:DATA PREDICTION: starting Initialization of DataPrediction object
+2021-08-23 23:34:33,526 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 23:34:33,528 root - INFO:DATA PREDICTION: started preparing data structure type based on model
+2021-08-23 23:34:33,547 root - INFO:DATA PREDICTION: Ended preparing data structure type based on model
+2021-08-23 23:34:33,565 root - INFO:DATA PREDICTION: started preparing data column names based on model
+2021-08-23 23:34:33,567 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:34:33,569 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:34:33,575 root - INFO:DATA PREDICTION: Ended preparing data column names on model
+2021-08-23 23:34:33,577 root - INFO:DATA PREDICTION: started finding cluster for each data
+2021-08-23 23:34:33,578 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:34:33,580 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:34:33,585 root - INFO:DATA PREDICTION: Ended finding cluster for each data
+2021-08-23 23:34:33,587 root - INFO:DATA PREDICTION: started data prediction process
+2021-08-23 23:34:33,589 root - INFO:DATA PREDICTION: started Loading model
+2021-08-23 23:34:33,591 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:34:33,598 root - INFO:DATA PREDICTION: started loading saved model
+2021-08-23 23:34:33,599 root - INFO:DATA PREDICTION: Ended Loading model
+2021-08-23 23:34:33,603 root - INFO:DATA PREDICTION: Ended data prediction process
+2021-08-23 23:34:33,605 root - INFO:DATA PREDICTION: Ended data prediction process

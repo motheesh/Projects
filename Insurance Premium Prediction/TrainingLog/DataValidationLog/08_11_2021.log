@@ -1,0 +1,107 @@
+2021-08-11 18:02:54,943 root - INFO:starting Initialization of TrainValidation object
+2021-08-11 18:02:54,946 root - INFO:Ending Initialization of TrainValidation object
+2021-08-11 18:02:54,947 root - INFO:Starting the Train Validation
+2021-08-11 18:02:54,949 root - INFO:Started reading TrainSchema json
+2021-08-11 18:02:54,950 root - INFO:Ended reading TrainSchema json
+2021-08-11 18:02:54,952 root - INFO:starting file name validation
+2021-08-11 18:02:54,954 root - INFO:File name is not matched
+2021-08-11 18:02:54,955 root - INFO:ending file name validation
+2021-08-11 18:02:54,956 root - INFO:starting file name validation
+2021-08-11 18:02:55,001 root - INFO:ending file name validation
+2021-08-11 18:02:55,010 root - INFO:Starting column values and data type check
+2021-08-11 18:02:55,013 root - INFO:starting column Names validation
+2021-08-11 18:02:55,016 root - INFO:Ending column Names validation
+2021-08-11 18:02:55,018 root - INFO:starting column Type validation
+2021-08-11 18:02:55,020 root - INFO:Ending column Type validation
+2021-08-11 18:02:55,022 root - INFO: starting >95% Na validation
+2021-08-11 18:02:55,042 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-11 18:02:55,046 root - INFO:completing >95% NA validation
+2021-08-11 18:02:55,047 root - INFO:Column validation succesfull
+2021-08-11 18:02:55,049 root - INFO:Replacing NA values with NULL
+2021-08-11 18:02:55,051 root - INFO:started data moving to good data folder
+2021-08-11 18:02:55,061 root - INFO:ending data movement to good data folder
+2021-08-11 18:02:55,062 root - INFO:Ending the Train Validation
+2021-08-11 18:02:55,067 root - INFO:starting Initialization of TrainValidation object
+2021-08-11 18:02:55,069 root - INFO:Ending Initialization of TrainValidation object
+2021-08-11 18:02:55,070 root - INFO:Started reading TrainSchema json
+2021-08-11 18:02:55,072 root - INFO:Ended reading TrainSchema json
+2021-08-11 18:04:22,755 root - INFO:starting Initialization of TrainValidation object
+2021-08-11 18:04:22,755 root - INFO:Ending Initialization of TrainValidation object
+2021-08-11 18:04:22,755 root - INFO:Starting the Train Validation
+2021-08-11 18:04:22,755 root - INFO:Started reading TrainSchema json
+2021-08-11 18:04:22,770 root - INFO:Ended reading TrainSchema json
+2021-08-11 18:04:22,770 root - INFO:starting file name validation
+2021-08-11 18:04:22,770 root - INFO:File name is not matched
+2021-08-11 18:04:22,770 root - INFO:ending file name validation
+2021-08-11 18:04:22,770 root - INFO:starting file name validation
+2021-08-11 18:04:22,770 root - INFO:ending file name validation
+2021-08-11 18:04:22,770 root - INFO:Starting column values and data type check
+2021-08-11 18:04:22,770 root - INFO:starting column Names validation
+2021-08-11 18:04:22,787 root - INFO:Ending column Names validation
+2021-08-11 18:04:22,788 root - INFO:starting column Type validation
+2021-08-11 18:04:22,790 root - INFO:Ending column Type validation
+2021-08-11 18:04:22,791 root - INFO: starting >95% Na validation
+2021-08-11 18:04:22,807 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-11 18:04:22,812 root - INFO:completing >95% NA validation
+2021-08-11 18:04:22,813 root - INFO:Column validation succesfull
+2021-08-11 18:04:22,814 root - INFO:Replacing NA values with NULL
+2021-08-11 18:04:22,816 root - INFO:started data moving to good data folder
+2021-08-11 18:04:22,825 root - INFO:ending data movement to good data folder
+2021-08-11 18:04:22,827 root - INFO:Ending the Train Validation
+2021-08-11 18:04:22,830 root - INFO:starting Initialization of TrainValidation object
+2021-08-11 18:04:22,831 root - INFO:Ending Initialization of TrainValidation object
+2021-08-11 18:04:22,833 root - INFO:Started reading TrainSchema json
+2021-08-11 18:04:22,836 root - INFO:Ended reading TrainSchema json
+2021-08-11 22:30:37,894 root - INFO:starting Initialization of TrainValidation object
+2021-08-11 22:30:37,935 root - INFO:Ending Initialization of TrainValidation object
+2021-08-11 22:30:37,939 root - INFO:Starting the Train Validation
+2021-08-11 22:30:37,942 root - INFO:Started reading TrainSchema json
+2021-08-11 22:30:37,946 root - INFO:Ended reading TrainSchema json
+2021-08-11 22:30:37,950 root - INFO:starting file name validation
+2021-08-11 22:30:37,953 root - INFO:File name is not matched
+2021-08-11 22:30:37,956 root - INFO:ending file name validation
+2021-08-11 22:30:37,960 root - INFO:starting file name validation
+2021-08-11 22:30:37,963 root - INFO:ending file name validation
+2021-08-11 22:30:38,005 root - INFO:Starting column values and data type check
+2021-08-11 22:30:38,007 root - INFO:starting column Names validation
+2021-08-11 22:30:38,008 root - INFO:Ending column Names validation
+2021-08-11 22:30:38,009 root - INFO:starting column Type validation
+2021-08-11 22:30:38,011 root - INFO:Ending column Type validation
+2021-08-11 22:30:38,012 root - INFO: starting >95% Na validation
+2021-08-11 22:30:38,015 root - INFO:completing >95% NA validation
+2021-08-11 22:30:38,017 root - INFO:Column validation succesfull
+2021-08-11 22:30:38,018 root - INFO:Replacing NA values with NULL
+2021-08-11 22:30:38,021 root - INFO:started data moving to good data folder
+2021-08-11 22:30:38,046 root - INFO:ending data movement to good data folder
+2021-08-11 22:30:38,047 root - INFO:Ending the Train Validation
+2021-08-11 22:30:38,091 root - INFO:starting Initialization of TrainValidation object
+2021-08-11 22:30:38,092 root - INFO:Ending Initialization of TrainValidation object
+2021-08-11 22:30:38,093 root - INFO:Started reading TrainSchema json
+2021-08-11 22:30:38,095 root - INFO:Ended reading TrainSchema json
+2021-08-11 22:32:40,135 root - INFO:starting Initialization of TrainValidation object
+2021-08-11 22:32:40,136 root - INFO:Ending Initialization of TrainValidation object
+2021-08-11 22:32:40,137 root - INFO:Starting the Train Validation
+2021-08-11 22:32:40,139 root - INFO:Started reading TrainSchema json
+2021-08-11 22:32:40,140 root - INFO:Ended reading TrainSchema json
+2021-08-11 22:32:40,142 root - INFO:starting file name validation
+2021-08-11 22:32:40,143 root - INFO:File name is not matched
+2021-08-11 22:32:40,144 root - INFO:ending file name validation
+2021-08-11 22:32:40,146 root - INFO:starting file name validation
+2021-08-11 22:32:40,147 root - INFO:ending file name validation
+2021-08-11 22:32:40,153 root - INFO:Starting column values and data type check
+2021-08-11 22:32:40,156 root - INFO:starting column Names validation
+2021-08-11 22:32:40,157 root - INFO:Ending column Names validation
+2021-08-11 22:32:40,158 root - INFO:starting column Type validation
+2021-08-11 22:32:40,160 root - INFO:Ending column Type validation
+2021-08-11 22:32:40,161 root - INFO: starting >95% Na validation
+2021-08-11 22:32:40,290 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-11 22:32:40,321 root - INFO:completing >95% NA validation
+2021-08-11 22:32:40,324 root - INFO:Column validation succesfull
+2021-08-11 22:32:40,327 root - INFO:Replacing NA values with NULL
+2021-08-11 22:32:40,333 root - INFO:started data moving to good data folder
+2021-08-11 22:32:40,383 root - INFO:ending data movement to good data folder
+2021-08-11 22:32:40,385 root - INFO:Ending the Train Validation
+2021-08-11 22:32:40,391 root - INFO:starting Initialization of TrainValidation object
+2021-08-11 22:32:40,392 root - INFO:Ending Initialization of TrainValidation object
+2021-08-11 22:32:40,395 root - INFO:Started reading TrainSchema json
+2021-08-11 22:32:40,397 root - INFO:Ended reading TrainSchema json

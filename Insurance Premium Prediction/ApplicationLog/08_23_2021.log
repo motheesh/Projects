@@ -1,0 +1,692 @@
+2021-08-23 20:53:10,338 root - INFO:API CALL: Received request for index page
+2021-08-23 20:53:10,375 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:53:10,378 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\jinja2\\__pycache__\\ext.cpython-38.pyc', reloading
+2021-08-23 20:53:10,399 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:53:10] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:53:10,400 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-38.pyc', reloading
+2021-08-23 20:54:28,768 root - INFO:API CALL: Received request for index page
+2021-08-23 20:54:28,788 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:54:28,811 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:54:28] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:54:42,875 root - INFO:API CALL: Received request for index page
+2021-08-23 20:54:42,894 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:54:42,912 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:54:42] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:55:02,488 root - INFO:API CALL: Received request for index page
+2021-08-23 20:55:02,511 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:55:02,533 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:55:02] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:55:40,049 root - INFO:API CALL: Received request for index page
+2021-08-23 20:55:40,071 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:55:40,093 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:55:40] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:55:50,638 root - INFO:API CALL: Received request for index page
+2021-08-23 20:55:50,655 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:55:50,674 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:55:50] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:55:58,898 root - INFO:API CALL: Received request for index page
+2021-08-23 20:55:58,916 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:55:58,935 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:55:58] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:56:05,723 root - INFO:API CALL: Received request for index page
+2021-08-23 20:56:05,741 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:56:05,758 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:56:05] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:56:20,664 root - INFO:API CALL: Received request for index page
+2021-08-23 20:56:20,686 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:56:20,768 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:56:20] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:56:33,098 root - INFO:API CALL: Received request for index page
+2021-08-23 20:56:33,121 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:56:33,137 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:56:33] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:56:51,826 root - INFO:API CALL: Received request for index page
+2021-08-23 20:56:51,850 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:56:51,872 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:56:51] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:56:52,789 root - INFO:API CALL: Received request for index page
+2021-08-23 20:56:52,808 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:56:52,810 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:56:52] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:57:09,098 root - INFO:API CALL: Received request for index page
+2021-08-23 20:57:09,120 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:57:09,138 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:57:09] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:57:57,210 root - INFO:API CALL: Received request for index page
+2021-08-23 20:57:57,228 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:57:57,247 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:57:57] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:58:11,779 root - INFO:API CALL: Received request for index page
+2021-08-23 20:58:11,802 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:58:11,824 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:58:11] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:58:24,213 root - INFO:API CALL: Received request for index page
+2021-08-23 20:58:24,236 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:58:24,256 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:58:24] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 20:58:44,597 root - INFO:API CALL: Received request for index page
+2021-08-23 20:58:44,614 root - INFO:API CALL: Responded for index page request
+2021-08-23 20:58:44,631 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 20:58:44] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:00:03,241 root - INFO:API CALL: Received request for index page
+2021-08-23 21:00:03,265 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:00:03,285 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:00:03] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:00:04,776 root - INFO:API CALL: Received request for index page
+2021-08-23 21:00:04,793 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:00:04,794 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:00:04] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:00:04,961 root - INFO:API CALL: Received request for index page
+2021-08-23 21:00:04,982 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:00:04,983 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:00:04] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:00:05,587 root - INFO:API CALL: Received request for index page
+2021-08-23 21:00:05,605 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:00:05,606 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:00:05] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:00:05,778 root - INFO:API CALL: Received request for index page
+2021-08-23 21:00:05,794 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:00:05,797 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:00:05] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:00:06,390 root - INFO:API CALL: Received request for index page
+2021-08-23 21:00:06,412 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:00:06,413 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:00:06] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:00:06,652 root - INFO:API CALL: Received request for index page
+2021-08-23 21:00:06,674 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:00:06,676 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:00:06] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:01:01,212 root - INFO:API CALL: Received request for index page
+2021-08-23 21:01:01,236 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:01:01,256 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:01:01] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:01:18,869 root - INFO:API CALL: Received request for index page
+2021-08-23 21:01:18,895 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:01:18,916 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:01:18] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:01:42,719 root - INFO:API CALL: Received request for index page
+2021-08-23 21:01:42,739 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:01:42,759 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:01:42] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:01:49,553 root - INFO:API CALL: Received request for index page
+2021-08-23 21:01:49,575 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:01:49,596 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:01:49] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:02:02,574 root - INFO:API CALL: Received request for index page
+2021-08-23 21:02:02,592 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:02:02,609 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:02:02] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:02:03,287 root - INFO:API CALL: Received request for index page
+2021-08-23 21:02:03,308 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:02:03,310 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:02:03] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:02:13,441 root - INFO:API CALL: Received request for index page
+2021-08-23 21:02:13,460 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:02:13,478 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:02:13] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:02:14,037 root - INFO:API CALL: Received request for index page
+2021-08-23 21:02:14,061 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:02:14,063 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:02:14] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:02:14,182 root - INFO:API CALL: Received request for index page
+2021-08-23 21:02:14,199 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:02:14,201 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:02:14] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:02:14,423 root - INFO:API CALL: Received request for index page
+2021-08-23 21:02:14,445 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:02:14,447 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:02:14] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:02:35,296 root - INFO:API CALL: Received request for index page
+2021-08-23 21:02:35,312 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:02:35,329 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:02:35] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:02:56,340 root - INFO:API CALL: Received request for index page
+2021-08-23 21:02:56,357 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:02:56,373 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:02:56] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:03:11,691 root - INFO:API CALL: Received request for index page
+2021-08-23 21:03:11,713 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:03:11,728 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:03:11] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:03:21,512 root - INFO:API CALL: Received request for index page
+2021-08-23 21:03:21,534 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:03:21,551 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:03:21] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:03:29,746 root - INFO:API CALL: Received request for index page
+2021-08-23 21:03:29,768 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:03:29,789 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:03:29] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:03:46,045 root - INFO:API CALL: Received request for index page
+2021-08-23 21:03:46,063 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:03:46,083 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:03:46] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:04:01,184 root - INFO:API CALL: Received request for index page
+2021-08-23 21:04:01,207 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:04:01,223 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:04:01] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:04:16,395 root - INFO:API CALL: Received request for predicting data
+2021-08-23 21:04:16,509 root - INFO:API CALL: Responded to request for predicting data
+2021-08-23 21:04:16,510 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:04:16] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-23 21:04:32,686 root - INFO:API CALL: Received request for index page
+2021-08-23 21:04:32,732 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:04:32,734 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:04:32] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:04:41,959 root - INFO:API CALL: Received request for index page
+2021-08-23 21:04:41,983 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:04:41,985 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:04:41] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:04:57,424 root - INFO:API CALL: Received request for index page
+2021-08-23 21:04:57,446 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:04:57,448 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:04:57] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:05:22,011 root - INFO:API CALL: Received request for index page
+2021-08-23 21:05:22,034 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:05:22,055 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:05:22] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:05:38,445 root - INFO:API CALL: Received request for index page
+2021-08-23 21:05:38,462 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:05:38,479 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:05:38] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:06:01,705 root - INFO:API CALL: Received request for index page
+2021-08-23 21:06:01,728 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:06:01,746 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:06:01] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:06:27,187 root - INFO:API CALL: Received request for index page
+2021-08-23 21:06:27,209 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:06:27,231 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:06:27] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:07:07,876 root - INFO:API CALL: Received request for index page
+2021-08-23 21:07:07,900 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:07:07,922 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:07:07] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:07:43,403 root - INFO:API CALL: Received request for index page
+2021-08-23 21:07:43,423 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:07:43,445 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:07:43] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:08:01,295 root - INFO:API CALL: Received request for index page
+2021-08-23 21:08:01,318 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:08:01,339 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:08:01] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:08:21,425 root - INFO:API CALL: Received request for index page
+2021-08-23 21:08:21,450 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:08:21,467 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:08:21] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:08:32,384 root - INFO:API CALL: Received request for index page
+2021-08-23 21:08:32,405 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:08:32,423 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:08:32] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:08:46,151 root - INFO:API CALL: Received request for index page
+2021-08-23 21:08:46,172 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:08:46,189 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:08:46] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:09:06,033 root - INFO:API CALL: Received request for index page
+2021-08-23 21:09:06,050 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:09:06,069 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:09:06] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:10:05,958 root - INFO:API CALL: Received request for index page
+2021-08-23 21:10:05,978 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:10:05,995 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:10:05] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:10:46,291 root - INFO:API CALL: Received request for index page
+2021-08-23 21:10:46,310 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:10:46,325 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:10:46] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:11:26,820 root - INFO:API CALL: Received request for index page
+2021-08-23 21:11:26,837 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:11:26,855 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:11:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:11:32,611 root - INFO:API CALL: Received request for index page
+2021-08-23 21:11:32,630 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:11:32,632 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:11:32] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 21:11:54,767 root - INFO:API CALL: Received request for index page
+2021-08-23 21:11:54,787 root - INFO:API CALL: Responded for index page request
+2021-08-23 21:11:54,799 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 21:11:54] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:06:59,390 root - INFO:API CALL: Received request for index page
+2021-08-23 22:06:59,412 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:06:59,431 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:06:59] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:07:11,824 root - INFO:API CALL: Received request for index page
+2021-08-23 22:07:11,842 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:07:11,860 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:07:11] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:07:35,986 root - INFO:API CALL: Received request for index page
+2021-08-23 22:07:36,008 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:07:36,027 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:07:36] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:08:01,070 root - INFO:API CALL: Received request for index page
+2021-08-23 22:08:01,092 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:08:01,115 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:08:01] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:08:14,847 root - INFO:API CALL: Received request for index page
+2021-08-23 22:08:14,868 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:08:14,883 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:08:14] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:08:24,783 root - INFO:API CALL: Received request for index page
+2021-08-23 22:08:24,803 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:08:24,814 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:08:24] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:08:32,103 root - INFO:API CALL: Received request for index page
+2021-08-23 22:08:32,124 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:08:32,147 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:08:32] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:08:43,791 root - INFO:API CALL: Received request for index page
+2021-08-23 22:08:43,813 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:08:43,861 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:08:43] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:08:57,105 root - INFO:API CALL: Received request for index page
+2021-08-23 22:08:57,128 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:08:57,147 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:08:57] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:09:29,364 root - INFO:API CALL: Received request for index page
+2021-08-23 22:09:29,384 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:09:29,430 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:09:29] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:09:30,284 root - INFO:API CALL: Received request for index page
+2021-08-23 22:09:30,307 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:09:30,309 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:09:30] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:10:13,697 root - INFO:API CALL: Received request for index page
+2021-08-23 22:10:13,719 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:10:13,738 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:10:13] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:10:15,004 root - INFO:API CALL: Received request for index page
+2021-08-23 22:10:15,025 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:10:15,027 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:10:15] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:10:45,773 root - INFO:API CALL: Received request for index page
+2021-08-23 22:10:45,795 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:10:45,836 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:10:45] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:11:15,938 root - INFO:API CALL: Received request for index page
+2021-08-23 22:11:15,959 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:11:15,982 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:11:15] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:11:35,165 root - INFO:API CALL: Received request for index page
+2021-08-23 22:11:35,187 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:11:35,208 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:11:35] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:11:44,835 root - INFO:API CALL: Received request for index page
+2021-08-23 22:11:44,856 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:11:44,915 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:11:44] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:12:03,525 root - INFO:API CALL: Received request for predicting data
+2021-08-23 22:12:03,609 root - INFO:API CALL: Responded to request for predicting data
+2021-08-23 22:12:03,610 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:12:03] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-23 22:17:05,911 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\IPython\\core\\interactiveshell.py', reloading
+2021-08-23 22:44:36,670 root - INFO:API CALL: Received request for index page
+2021-08-23 22:44:36,691 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:44:36,714 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\jinja2\\__pycache__\\ext.cpython-38.pyc', reloading
+2021-08-23 22:44:36,728 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-38.pyc', reloading
+2021-08-23 22:44:36,740 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\jinja2\\__pycache__\\debug.cpython-38.pyc', reloading
+2021-08-23 22:44:36,742 root - ERROR:API CALL: Error while rendering index page request
+2021-08-23 22:44:36,768 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\flask\\templating.py', reloading
+2021-08-23 22:44:36,783 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2021-08-23 22:44:36,795 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\jinja2\\_compat.py', reloading
+2021-08-23 22:44:36,800 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+2021-08-23 22:44:36,863 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\werkzeug\\routing.py', reloading
+2021-08-23 22:44:36,882 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:44:36] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-08-23 22:44:36,922 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:44:36] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-08-23 22:44:36,926 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:44:36] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-08-23 22:44:36,932 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:44:36] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-08-23 22:44:37,017 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:44:37] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-08-23 22:44:37,046 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:44:37] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 22:44:37,090 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:44:37] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 22:46:56,488 root - INFO:API CALL: Received request for index page
+2021-08-23 22:46:56,509 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:46:56,570 root - ERROR:API CALL: Error while rendering index page request
+2021-08-23 22:46:56,603 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:46:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-08-23 22:46:56,652 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:46:56] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-08-23 22:46:56,662 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:46:56] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-08-23 22:46:56,664 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:46:56] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-08-23 22:46:56,908 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:46:56] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-08-23 22:46:56,951 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:46:56] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 22:49:53,778 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\werkzeug\\exceptions.py', reloading
+2021-08-23 22:50:09,345 root - INFO:API CALL: Received request for index page
+2021-08-23 22:50:09,371 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:50:09,391 root - ERROR:API CALL: Error while rendering index page request Could not build url for endpoint 'TrainedModelDetails'. Did you mean 'getTrainedModelDetails' instead?
+2021-08-23 22:50:09,392 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:50:09] "[33mGET / HTTP/1.1[0m" 404 -
+2021-08-23 22:50:18,648 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-23 22:50:18,649 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-23 22:50:18,650 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-23 22:50:24,136 root - INFO:API CALL: Received request for index page
+2021-08-23 22:50:24,155 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:50:24,181 root - ERROR:API CALL: Error while rendering index page request Could not build url for endpoint 'TrainedModelDetails'. Did you mean 'getTrainedModelDetails' instead?
+2021-08-23 22:50:24,182 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:50:24] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-08-23 22:50:44,188 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-23 22:50:44,190 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-23 22:50:44,192 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-23 22:50:44,193 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-23 22:50:49,489 root - INFO:API CALL: Received request for index page
+2021-08-23 22:50:49,504 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:50:49,523 root - ERROR:API CALL: Error while rendering index page request Could not build url for endpoint 'TrainedModelDetails'. Did you mean 'getTrainedModelDetails' instead?
+2021-08-23 22:50:49,524 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:50:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-08-23 22:51:15,310 root - INFO:API CALL: Received request for index page
+2021-08-23 22:51:15,332 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:51:15,355 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:51:15] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:52:27,741 root - INFO:API CALL: Received request for index page
+2021-08-23 22:52:27,763 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:52:27,764 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:52:27] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 22:57:35,838 root - INFO:API CALL: Received request for index page
+2021-08-23 22:57:35,861 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:57:35,892 root - ERROR:API CALL: Error while rendering index page request Could not build url for endpoint 'TrainedModelDetails'. Did you mean 'getTrainedModelDetails' instead?
+2021-08-23 22:57:35,893 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:57:35] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-08-23 22:57:46,030 root - INFO:API CALL: Received request for index page
+2021-08-23 22:57:46,048 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:57:46,066 root - ERROR:API CALL: Error while rendering index page request Could not build url for endpoint 'TrainedModelDetails'. Did you mean 'getTrainedModelDetails' instead?
+2021-08-23 22:57:46,068 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:57:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-08-23 22:59:48,068 root - INFO:API CALL: Received request for index page
+2021-08-23 22:59:48,090 root - INFO:API CALL: Responded for index page request
+2021-08-23 22:59:48,108 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 22:59:48] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 23:01:03,000 root - INFO:API CALL: Received request for index page
+2021-08-23 23:01:03,022 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:01:03,085 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:01:03] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 23:01:03,922 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:01:03,937 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:01:03,967 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:01:03] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:02:20,820 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:02:20,837 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:02:20,882 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:02:20] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:03:29,316 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:03:29,328 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:03:29,340 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:03:29] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:03:47,644 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:03:47,654 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:03:47,664 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:03:47] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:04:56,929 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:04:56,941 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:04:57,007 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:04:57] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:05:38,872 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:05:38,884 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:05:38,900 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:05:38] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:06:07,411 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:06:07,422 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:06:07,437 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:06:07] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:06:16,281 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:06:16,292 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:06:16,333 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:06:16] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:06:17,001 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:06:17,013 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:06:17,014 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:06:17] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:06:22,946 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:06:22,959 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:06:22,975 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:06:22] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:06:34,019 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:06:34,028 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:06:34,040 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:06:34] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:07:59,952 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:07:59,970 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:07:59,985 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:07:59] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:08:01,403 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:08:01,414 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:08:01,415 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:08:01] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:08:13,915 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:08:13,924 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:08:13,935 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:08:13] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:08:14,615 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:08:14,627 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:08:14,629 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:08:14] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:08:15,062 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:08:15,072 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:08:15,073 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:08:15] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:08:15,217 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:08:15,226 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:08:15,227 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:08:15] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:08:17,773 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:08:17,787 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:08:17,788 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:08:17] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:08:49,039 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:08:49,051 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:08:49,067 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:08:49] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:08:49,647 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:08:49,659 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:08:49,660 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:08:49] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:08:49,879 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:08:49,891 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:08:49,893 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:08:49] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:09:11,321 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:09:11,330 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:09:11,341 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:09:11] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:09:11,943 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:09:11,954 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:09:11,955 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:09:11] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:09:34,915 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:09:34,924 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:09:34,939 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:09:34] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:09:47,044 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:09:47,059 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:09:47,072 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:09:47] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:09:52,701 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:09:52,714 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:09:52,727 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:09:52] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:10:18,532 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:10:18,547 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:10:18,562 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:10:18] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:10:44,318 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:10:44,331 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:10:44,346 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:10:44] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:11:05,102 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:11:05,113 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:11:05,124 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:11:05] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:11:18,630 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:11:18,642 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:11:18,654 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:11:18] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:11:30,054 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:11:30,066 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:11:30,136 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:11:30] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:13:25,711 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:13:25,725 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:13:25,777 root - ERROR:API CALL: Error while getting Trained model details
+2021-08-23 23:13:25,830 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+2021-08-23 23:13:25,837 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\json\\__init__.py', reloading
+2021-08-23 23:13:26,275 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:13:26] "[35m[1mGET /getTrainedModelDetails HTTP/1.1[0m" 500 -
+2021-08-23 23:13:26,314 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:13:26] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-08-23 23:13:26,317 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:13:26] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-08-23 23:13:26,320 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:13:26] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-08-23 23:13:26,571 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:13:26] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-08-23 23:13:26,620 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:13:26] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 23:13:26,696 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:13:26] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 23:14:02,826 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:14:02,837 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:14:02,857 root - ERROR:API CALL: Error while getting Trained model details
+2021-08-23 23:14:02,903 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:14:02] "[35m[1mGET /getTrainedModelDetails HTTP/1.1[0m" 500 -
+2021-08-23 23:14:02,948 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:14:02] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-08-23 23:14:02,952 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:14:02] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-08-23 23:14:02,954 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:14:02] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-08-23 23:14:03,069 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:14:03] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 23:14:03,073 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:14:03] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-08-23 23:14:03,143 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:14:03] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 23:15:56,909 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-23 23:15:56,910 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-23 23:15:56,913 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-23 23:16:08,608 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:16:08,622 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:16:08,638 root - ERROR:API CALL: Error while getting Trained model details
+2021-08-23 23:16:08,692 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:16:08] "[35m[1mGET /getTrainedModelDetails HTTP/1.1[0m" 500 -
+2021-08-23 23:16:08,739 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:16:08] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-08-23 23:16:08,745 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:16:08] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-08-23 23:16:08,746 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:16:08] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-08-23 23:16:08,788 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:16:08] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-08-23 23:16:08,831 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:16:08] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 23:16:08,864 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:16:08] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 23:16:14,582 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:16:14,592 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:16:14,595 root - ERROR:API CALL: Error while getting Trained model details
+2021-08-23 23:16:14,633 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:16:14] "[35m[1mGET /getTrainedModelDetails HTTP/1.1[0m" 500 -
+2021-08-23 23:16:14,667 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:16:14] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-08-23 23:16:14,672 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:16:14] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-08-23 23:16:14,673 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:16:14] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-08-23 23:16:14,715 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:16:14] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-08-23 23:16:14,780 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:16:14] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 23:16:14,799 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:16:14] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 23:17:15,785 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:17:15,824 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:17:15,839 root - ERROR:API CALL: Error while getting Trained model details
+2021-08-23 23:17:15,876 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:17:15] "[35m[1mGET /getTrainedModelDetails HTTP/1.1[0m" 500 -
+2021-08-23 23:17:15,914 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:17:15] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-08-23 23:17:15,921 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:17:15] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-08-23 23:17:15,922 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:17:15] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-08-23 23:17:15,981 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:17:15] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-08-23 23:17:16,030 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:17:16] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 23:17:16,062 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:17:16] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 23:17:19,384 root - INFO:API CALL: Received request for index page
+2021-08-23 23:17:19,409 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:17:19,422 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:17:19] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 23:17:20,966 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:17:20,980 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:17:20,982 root - ERROR:API CALL: Error while getting Trained model details
+2021-08-23 23:17:21,024 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:17:21] "[35m[1mGET /getTrainedModelDetails HTTP/1.1[0m" 500 -
+2021-08-23 23:17:21,077 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:17:21] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-08-23 23:17:21,079 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:17:21] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-08-23 23:17:21,080 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:17:21] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-08-23 23:17:21,117 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:17:21] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-08-23 23:17:21,153 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:17:21] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 23:18:51,162 root - INFO:API CALL: Received request for index page
+2021-08-23 23:18:51,182 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:18:51,183 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:18:51] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:19:02,285 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:19:02,299 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:19:02,306 root - ERROR:API CALL: Error while getting Trained model details
+2021-08-23 23:19:02,329 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\flask\\helpers.py', reloading
+2021-08-23 23:19:02,331 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2021-08-23 23:19:02,335 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+2021-08-23 23:19:02,349 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:19:02] "[35m[1mGET /getTrainedModelDetails HTTP/1.1[0m" 500 -
+2021-08-23 23:19:02,391 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:19:02] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-08-23 23:19:02,394 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:19:02] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-08-23 23:19:02,397 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:19:02] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-08-23 23:19:02,453 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:19:02] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-08-23 23:19:02,500 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:19:02] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 23:19:42,855 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:19:42,865 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:19:42,877 root - ERROR:API CALL: Error while getting Trained model details
+2021-08-23 23:19:42,921 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:19:42] "[35m[1mGET /getTrainedModelDetails?__debugger__=yes&cmd=printpin&s=yONkD3Hbdip84O8db6dD HTTP/1.1[0m" 500 -
+2021-08-23 23:19:50,009 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:19:50,020 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:19:50,022 root - ERROR:API CALL: Error while getting Trained model details
+2021-08-23 23:19:50,059 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:19:50] "[35m[1mGET /getTrainedModelDetails HTTP/1.1[0m" 500 -
+2021-08-23 23:19:50,099 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:19:50] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-08-23 23:19:50,103 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:19:50] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-08-23 23:19:50,106 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:19:50] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-08-23 23:19:50,146 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:19:50] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-08-23 23:19:50,150 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:19:50] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 23:19:50,229 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:19:50] "[37mGET /getTrainedModelDetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-08-23 23:20:35,595 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:20:35,608 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:20:35,625 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:20:35] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:21:00,968 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:21:00,980 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:21:01,026 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:01] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:21:02,222 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:21:02,232 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:21:02,233 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:02] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:21:03,865 root - INFO:API CALL: Received request for index page
+2021-08-23 23:21:03,888 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:21:03,902 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:03] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:21:05,911 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:21:05,924 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:21:05,926 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:05] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:21:07,785 root - INFO:API CALL: Received request for index page
+2021-08-23 23:21:07,894 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:21:07,896 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:07] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:21:09,467 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:21:09,477 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:21:09,478 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:09] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:21:11,046 root - INFO:API CALL: Received request for index page
+2021-08-23 23:21:11,063 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:21:11,064 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:11] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:21:12,382 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:21:12,396 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:21:12,396 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:12] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:21:14,096 root - INFO:API CALL: Received request for index page
+2021-08-23 23:21:14,118 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:21:14,119 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:14] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:21:15,025 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:21:15,052 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:21:15,054 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:15] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:21:18,408 root - INFO:API CALL: Received request for index page
+2021-08-23 23:21:18,424 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:21:18,425 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:18] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:21:51,172 root - INFO:API CALL: Received request for index page
+2021-08-23 23:21:51,195 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:21:51,197 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:51] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:21:52,008 root - INFO:API CALL: Received request for index page
+2021-08-23 23:21:52,024 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:21:52,026 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:52] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:21:52,903 root - INFO:API CALL: Received request for index page
+2021-08-23 23:21:52,925 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:21:52,927 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:52] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:21:54,774 root - INFO:API CALL: Received request for index page
+2021-08-23 23:21:54,792 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:21:54,793 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:54] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:21:54,988 root - INFO:API CALL: Received request for index page
+2021-08-23 23:21:55,008 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:21:55,009 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:21:55] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:22:13,332 root - INFO:API CALL: Received request for index page
+2021-08-23 23:22:13,350 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:22:13,351 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:22:13] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:22:14,080 root - INFO:API CALL: Received request for index page
+2021-08-23 23:22:14,101 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:22:14,103 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:22:14] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:22:19,711 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:22:19,726 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:22:19,769 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:22:19] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:22:45,953 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:22:45,964 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:22:45,976 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:22:45] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:22:50,929 root - INFO:API CALL: Received request for index page
+2021-08-23 23:22:50,950 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:22:50,952 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:22:50] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:23:34,073 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:23:34,084 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:23:34,098 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:23:34] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:23:58,013 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:23:58,021 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:23:58,026 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:23:58] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:24:26,518 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:24:26,530 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:24:26,539 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:24:26] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:24:28,101 root - INFO:API CALL: Received request for index page
+2021-08-23 23:24:28,123 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:24:28,125 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:24:28] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:24:30,996 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:24:31,008 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:24:31,010 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:24:31] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:25:16,050 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:25:16,065 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:25:16,066 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:25:16] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:25:18,168 root - INFO:API CALL: Received request for index page
+2021-08-23 23:25:18,189 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:25:18,214 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:25:18] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:25:37,182 root - INFO:API CALL: Received request for index page
+2021-08-23 23:25:37,197 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:25:37,216 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:25:37] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:25:39,990 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:25:40,004 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:25:40,006 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:25:40] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:25:41,549 root - INFO:API CALL: Received request for index page
+2021-08-23 23:25:41,572 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:25:41,574 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:25:41] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:25:43,512 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:25:43,525 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:25:43,527 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:25:43] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:25:45,548 root - INFO:API CALL: Received request for index page
+2021-08-23 23:25:45,571 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:25:45,573 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:25:45] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:26:03,518 root - INFO:API CALL: Received request for index page
+2021-08-23 23:26:03,542 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:26:03,543 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:26:03] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:26:05,281 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:26:05,295 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:26:05,346 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:26:05] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:26:06,466 root - INFO:API CALL: Received request for index page
+2021-08-23 23:26:06,489 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:26:06,491 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:26:06] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:26:25,093 root - INFO:API CALL: Received request for predicting data
+2021-08-23 23:26:26,040 root - INFO:API CALL: Responded to request for predicting data
+2021-08-23 23:26:26,041 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:26:26] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-23 23:28:04,112 root - INFO:API CALL: Received request for index page
+2021-08-23 23:28:04,131 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:28:04,132 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:28:04] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:28:05,863 root - INFO:API CALL: Received request for predicting data
+2021-08-23 23:28:05,891 root - ERROR:API CALL: Error while predicting data based on request
+2021-08-23 23:28:06,718 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\DataPrediction\\PredictData.py', reloading
+2021-08-23 23:28:06,721 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pandas\\core\\generic.py', reloading
+2021-08-23 23:28:06,758 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pandas\\core\\internals\\managers.py', reloading
+2021-08-23 23:28:06,785 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pandas\\core\\internals\\blocks.py', reloading
+2021-08-23 23:28:06,803 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pandas\\core\\dtypes\\cast.py', reloading
+2021-08-23 23:28:06,843 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:28:06] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-08-23 23:28:06,984 root - INFO:API CALL: Received request for predicting data
+2021-08-23 23:28:07,011 root - ERROR:API CALL: Error while predicting data based on request
+2021-08-23 23:28:07,052 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:28:07] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-08-23 23:28:23,122 root - INFO:API CALL: Received request for predicting data
+2021-08-23 23:28:23,150 root - ERROR:API CALL: Error while predicting data based on request
+2021-08-23 23:28:23,729 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:28:23] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-08-23 23:29:42,054 root - INFO:API CALL: Received request for index page
+2021-08-23 23:29:42,077 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:29:42,093 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:29:42] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:29:44,828 root - INFO:API CALL: Received request for predicting data
+2021-08-23 23:29:44,850 root - ERROR:API CALL: Error while predicting data based on request
+2021-08-23 23:29:44,894 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:29:44] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-08-23 23:29:52,982 root - INFO:API CALL: Received request for predicting data
+2021-08-23 23:29:53,009 root - ERROR:API CALL: Error while predicting data based on request
+2021-08-23 23:29:53,065 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:29:53] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-08-23 23:30:17,539 root - INFO:API CALL: Received request for index page
+2021-08-23 23:30:17,563 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:30:17,579 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:30:17] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:30:21,983 root - INFO:API CALL: Received request for predicting data
+2021-08-23 23:30:22,005 root - ERROR:API CALL: Error while predicting data based on request
+2021-08-23 23:30:22,602 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:30:22] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-08-23 23:30:49,264 root - INFO:API CALL: Received request for index page
+2021-08-23 23:30:49,286 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:30:49,288 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:30:49] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:30:52,135 root - INFO:API CALL: Received request for predicting data
+2021-08-23 23:30:52,163 root - ERROR:API CALL: Error while predicting data based on request
+2021-08-23 23:30:52,210 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:30:52] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2021-08-23 23:32:12,871 root - INFO:API CALL: Received request for index page
+2021-08-23 23:32:13,062 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:32:13,081 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:32:13] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:32:13,343 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:32:13] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+2021-08-23 23:32:42,968 root - INFO:API CALL: Received request for predicting data
+2021-08-23 23:32:43,055 root - INFO:API CALL: Responded to request for predicting data
+2021-08-23 23:32:43,057 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:32:43] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-23 23:33:16,245 root - INFO:API CALL: Received request for index page
+2021-08-23 23:33:16,327 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:33:16,328 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:33:16] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:33:36,845 root - INFO:API CALL: Received request for index page
+2021-08-23 23:33:36,863 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:33:36,865 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:33:36] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:33:56,809 root - INFO:API CALL: Received request for index page
+2021-08-23 23:33:56,842 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:33:56,859 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:33:56] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:34:17,480 root - INFO:API CALL: Received request for index page
+2021-08-23 23:34:17,501 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:34:17,502 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:34:17] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:34:17,535 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:34:17] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+2021-08-23 23:34:33,521 root - INFO:API CALL: Received request for predicting data
+2021-08-23 23:34:33,607 root - INFO:API CALL: Responded to request for predicting data
+2021-08-23 23:34:33,608 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:34:33] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-23 23:34:38,900 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:34:38,914 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:34:38,921 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:34:38] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:36:21,325 root - INFO:API CALL: Received batch data model training request
+2021-08-23 23:36:27,487 root - INFO:API CALL: Received batch data model training request
+2021-08-23 23:38:06,406 root - INFO:API CALL: Received batch data model training request
+2021-08-23 23:39:02,892 root - INFO:API CALL: Responded to batch data model training request
+2021-08-23 23:39:02,893 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:39:02] "[37mGET /TrainModel HTTP/1.1[0m" 200 -
+2021-08-23 23:51:30,638 root - INFO:API CALL: Received request for index page
+2021-08-23 23:51:30,661 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:51:30,667 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\jinja2\\__pycache__\\ext.cpython-38.pyc', reloading
+2021-08-23 23:51:30,694 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:51:30] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-23 23:51:30,694 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-38.pyc', reloading
+2021-08-23 23:51:38,421 root - INFO:API CALL: Received get Trained model details request
+2021-08-23 23:51:38,452 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-23 23:51:38,464 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:51:38] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-23 23:52:10,385 root - INFO:API CALL: Received request for index page
+2021-08-23 23:52:10,406 root - INFO:API CALL: Responded for index page request
+2021-08-23 23:52:10,424 werkzeug - INFO:127.0.0.1 - - [23/Aug/2021 23:52:10] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-23 23:52:10,509 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Scripts\\jupyter-script.py', reloading
+2021-08-23 23:52:10,948 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Scripts\\jupyter-notebook-script.py', reloading

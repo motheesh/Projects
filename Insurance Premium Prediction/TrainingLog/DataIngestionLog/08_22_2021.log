@@ -1,0 +1,54 @@
+2021-08-22 15:06:02,311 root - INFO:DATA INGESTION: starting initialization data ingestion
+2021-08-22 15:06:02,315 root - INFO: starting initialization of Train data details
+2021-08-22 15:06:02,324 root - INFO:Ending Initialization of Train data details
+2021-08-22 15:06:02,325 root - INFO:Starting preparation of query details
+2021-08-22 15:06:02,327 root - INFO:Ending preparation of query details
+2021-08-22 15:06:02,328 root - INFO:DB OPERATION: starting initialization DB Operation
+2021-08-22 15:06:02,329 root - INFO:DB OPERATION: creating DB connection starts 
+2021-08-22 15:06:07,211 cassandra.policies - INFO:Using datacenter 'us-east4' for DCAwareRoundRobinPolicy (via host 'c7900e08-19ac-4f39-90a1-ca410ce1f2ad-us-east4.db.astra.datastax.com:29042:46311678-1430-48f6-8fe4-e72f9c9713ea'); if incorrect, please specify a local_dc to the constructor, or limit contact points to local cluster nodes
+2021-08-22 15:06:10,723 root - INFO:DB OPERATION: created DB connection
+2021-08-22 15:06:10,726 root - INFO:DB OPERATION: Ending initialization DB Operation
+2021-08-22 15:06:10,729 root - INFO:DATA INGESTION: Ending initialization data ingestion
+2021-08-22 15:06:10,733 root - INFO:DATA INGESTION: Starting data upload to DB
+2021-08-22 15:06:10,737 root - INFO:DATA INGESTION: starting get good data
+2021-08-22 15:06:10,761 root - INFO:DATA INGESTION: Ending get good data
+2021-08-22 15:06:10,765 root - INFO:DB OPERATION: starting drop table Operation
+2021-08-22 15:06:10,767 root - INFO:DB OPERATION: executing query starts
+2021-08-22 15:06:21,324 root - INFO:DB OPERATION: Ending query execution
+2021-08-22 15:06:21,328 root - INFO:DB OPERATION: Ending drop table Operation
+2021-08-22 15:06:21,333 root - INFO:DB OPERATION: starting  create table Operation
+2021-08-22 15:06:21,337 root - INFO:DB OPERATION: starting one query execution
+2021-08-22 15:06:23,490 root - INFO:DB OPERATION: Ending one query execution
+2021-08-22 15:06:23,494 root - INFO:DB OPERATION: Ending create table Operation
+2021-08-22 15:06:23,497 root - INFO:DB OPERATION: starting Batch data insertion
+2021-08-22 15:06:23,501 root - INFO:DB OPERATION: starting Batch Data query preperation
+2021-08-22 15:06:25,535 root - INFO:DB OPERATION: Ending Batch Data query preperation
+2021-08-22 15:06:27,010 cassandra.protocol - WARNING:Server warning: Batch for {"63373930306530382d313961632d346633392d393061312d636134313063653166326164_insurance".insurance} is of size 186kB, exceeding specified warning threshold 64kB
+2021-08-22 15:06:27,015 root - INFO:DB OPERATION: Ending Batch data insertion
+2021-08-22 15:06:27,018 root - INFO:DB OPERATION: started close DB connection operation
+2021-08-22 15:06:27,025 root - INFO:DB OPERATION: closed DB connection successfully
+2021-08-22 15:06:27,029 root - INFO:DATA INGESTION: data uploaded to DB successfully and created Training input csv file
+2021-08-22 15:06:27,034 root - INFO:DATA INGESTION: Starting create training input
+2021-08-22 15:06:27,037 root - INFO:DB OPERATION: starting initialization DB Operation
+2021-08-22 15:06:27,041 root - INFO:DB OPERATION: creating DB connection starts 
+2021-08-22 15:06:30,821 cassandra.policies - INFO:Using datacenter 'us-east4' for DCAwareRoundRobinPolicy (via host 'c7900e08-19ac-4f39-90a1-ca410ce1f2ad-us-east4.db.astra.datastax.com:29042:26517da0-f8db-4062-a350-7a022961d805'); if incorrect, please specify a local_dc to the constructor, or limit contact points to local cluster nodes
+2021-08-22 15:06:36,951 cassandra.cluster - WARNING:Failed to create connection pool for new host c7900e08-19ac-4f39-90a1-ca410ce1f2ad-us-east4.db.astra.datastax.com:29042:46311678-1430-48f6-8fe4-e72f9c9713ea:
+Traceback (most recent call last):
+  File "cassandra\cluster.py", line 3175, in cassandra.cluster.Session.add_or_renew_pool.run_add_or_renew_pool
+  File "cassandra\pool.py", line 402, in cassandra.pool.HostConnection.__init__
+  File "cassandra\cluster.py", line 1620, in cassandra.cluster.Cluster.connection_factory
+  File "cassandra\connection.py", line 840, in cassandra.connection.Connection.factory
+cassandra.OperationTimedOut: errors=Timed out creating connection (5 seconds), last_host=None
+2021-08-22 15:06:36,957 root - INFO:DB OPERATION: created DB connection
+2021-08-22 15:06:36,961 root - INFO:DB OPERATION: Ending initialization DB Operation
+2021-08-22 15:06:36,964 root - INFO:DATA INGESTION: Starting get data from DB
+2021-08-22 15:06:36,967 root - INFO:DB OPERATION: starting get train data Operation
+2021-08-22 15:06:36,971 root - INFO:DB OPERATION: executing query starts
+2021-08-22 15:06:37,914 root - INFO:DB OPERATION: Ending query execution
+2021-08-22 15:06:37,917 root - INFO:DB OPERATION: Ending get train data Operation
+2021-08-22 15:06:37,921 root - INFO:DATA INGESTION: Ending get data from DB
+2021-08-22 15:06:37,925 root - INFO:DB OPERATION: started close DB connection operation
+2021-08-22 15:06:37,931 root - INFO:DB OPERATION: closed DB connection successfully
+2021-08-22 15:06:37,938 root - INFO:DATA INGESTION: Starting convert Rs to DF
+2021-08-22 15:06:37,987 root - INFO:DATA INGESTION: Ending convert Rs to DF
+2021-08-22 15:06:38,005 root - INFO:DATA INGESTION: Ending create training input

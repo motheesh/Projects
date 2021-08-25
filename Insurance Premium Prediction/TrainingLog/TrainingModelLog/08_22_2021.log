@@ -1,0 +1,185 @@
+2021-08-22 14:35:55,851 root - INFO:TRAIN MODEL: starting initialization of model Training
+2021-08-22 14:35:55,852 root - INFO:TRAIN MODEL: Ending initialization of model Training
+2021-08-22 14:35:55,854 root - INFO:TRAIN MODEL: started model Training
+2021-08-22 14:35:55,856 root - INFO:TRAIN MODEL: started data preparation
+2021-08-22 14:35:55,857 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-22 14:35:55,859 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-22 14:35:55,860 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-22 14:35:55,868 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-22 14:35:55,869 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-22 14:35:55,878 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-22 14:35:55,879 root - INFO:DATA PREPROCESSING: Started Imputing NULL Values
+2021-08-22 14:35:55,885 root - INFO:DATA PREPROCESSING: Started Saving data Imputation model
+2021-08-22 14:35:55,887 root - INFO:DATA PREPROCESSING: Ended Saving data Imputation model
+2021-08-22 14:35:55,889 root - INFO:DATA PREPROCESSING: Started Imputing NULL Values
+2021-08-22 14:35:55,890 root - INFO:DATA PREPROCESSING: started removing constant features if any
+2021-08-22 14:35:55,894 root - INFO:DATA PREPROCESSING: Ended removing constant features if any
+2021-08-22 14:35:55,896 root - INFO:TRAIN MODEL: Ended data preparation
+2021-08-22 14:35:55,897 root - INFO:TRAIN MODEL: started data clustering
+2021-08-22 14:35:55,898 root - INFO:DATA CLUSTERING: starting initialization of data Clustering
+2021-08-22 14:35:55,900 root - INFO:DATA CLUSTERING: Ending initialization of data Clustering
+2021-08-22 14:35:55,901 root - INFO:DATA CLUSTERING: started clustering data for training
+2021-08-22 14:35:55,902 root - INFO:DATA CLUSTERING: started getting K value for cluster
+2021-08-22 14:35:57,775 root - INFO:DATA CLUSTERING: Ended getting K value for cluster
+2021-08-22 14:35:57,830 root - INFO:DATA CLUSTERING: started saving clustering model for prediction
+2021-08-22 14:35:57,833 root - INFO:DATA CLUSTERING: Ended saving clustering model for prediction
+2021-08-22 14:35:57,837 root - INFO:DATA CLUSTERING: Ended clustering data for training
+2021-08-22 14:35:57,839 root - INFO:TRAIN MODEL: Ended data clustering
+2021-08-22 14:35:57,841 root - INFO:TRAIN MODEL: starting model building
+2021-08-22 14:35:57,843 root - INFO:MODEL TRAINING: starting initialization of model building
+2021-08-22 14:35:57,845 root - INFO:MODEL TRAINING: Ending initialization of model building
+2021-08-22 14:35:57,848 root - INFO:MODEL TRAINING: started Train and save model
+2021-08-22 14:35:57,850 root - INFO:MODEL TRAINING: started get best trained model
+2021-08-22 14:35:57,852 root - INFO:MODEL TRAINING: started creating folder for saving models for each cluster
+2021-08-22 14:35:57,854 root - INFO:MODEL TRAINING: Ended creating folder for saving models for each cluster
+2021-08-22 14:35:57,856 root - INFO:MODEL TRAINING: started fetching list of models to train 
+2021-08-22 14:35:57,858 root - INFO:MODEL TRAINING: Ended fetching list of models to train 
+2021-08-22 14:35:57,905 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-22 14:35:57,920 root - INFO:MODEL TRAINING: started fetching model paramter for GradientBoost
+2021-08-22 14:35:57,922 root - INFO:MODEL TRAINING: Ended fetching model paramter for GradientBoost
+2021-08-22 14:35:57,924 root - INFO:MODEL TRAINING: started getting best estimator using GridSearch
+2021-08-22 14:36:12,518 root - INFO:MODEL TRAINING: Ended getting best estimator using GridSearch
+2021-08-22 14:36:12,519 root - INFO:MODEL TRAINING: started checking for model overfitting
+2021-08-22 14:36:12,529 root - INFO:MODEL TRAINING: Ended checking of model overfitting
+2021-08-22 14:36:12,535 root - INFO:MODEL TRAINING: started fetching model paramter for GradientBoost
+2021-08-22 14:36:12,537 root - INFO:MODEL TRAINING: Ended fetching model paramter for GradientBoost
+2021-08-22 14:36:12,538 root - INFO:MODEL TRAINING: started getting best estimator using GridSearch
+2021-08-22 14:36:23,173 root - INFO:MODEL TRAINING: Ended getting best estimator using GridSearch
+2021-08-22 14:36:23,175 root - INFO:MODEL TRAINING: started checking for model overfitting
+2021-08-22 14:36:23,183 root - INFO:MODEL TRAINING: Ended checking of model overfitting
+2021-08-22 14:36:23,184 root - INFO:MODEL TRAINING: Ended get best trained model
+2021-08-22 14:36:23,185 root - INFO:MODEL TRAINING: started saving the best model
+2021-08-22 14:36:23,187 root - INFO:MODEL TRAINING: started updating best model details
+2021-08-22 14:36:23,189 root - INFO:MODEL TRAINING: Ended updating best model details
+2021-08-22 14:36:23,195 root - INFO:MODEL TRAINING: Ended saving the best model
+2021-08-22 14:36:23,197 root - INFO:MODEL TRAINING: started saving the best model
+2021-08-22 14:36:23,199 root - INFO:MODEL TRAINING: started updating best model details
+2021-08-22 14:36:23,201 root - INFO:MODEL TRAINING: Ended updating best model details
+2021-08-22 14:36:23,207 root - INFO:MODEL TRAINING: Ended saving the best model
+2021-08-22 14:36:23,209 root - INFO:MODEL TRAINING: Ended Train and save model
+2021-08-22 14:36:23,210 root - INFO:TRAIN MODEL: Ended model building
+2021-08-22 14:36:23,211 root - INFO:TRAIN MODEL: Ended model Training
+2021-08-22 15:06:01,944 root - INFO:TRAIN MODEL: starting initialization of model Training
+2021-08-22 15:06:01,946 root - INFO:TRAIN MODEL: Ending initialization of model Training
+2021-08-22 15:06:01,949 root - INFO:TRAIN MODEL: started Training process
+2021-08-22 15:06:01,951 root - INFO:TRAIN MODEL: started data validation
+2021-08-22 15:06:02,308 root - INFO:TRAIN MODEL: Ended data validation
+2021-08-22 15:06:02,309 root - INFO:TRAIN MODEL: started data ingestion
+2021-08-22 15:06:38,007 root - INFO:TRAIN MODEL: Ended data ingestion
+2021-08-22 15:06:38,008 root - INFO:TRAIN MODEL: started model Training
+2021-08-22 15:06:38,010 root - INFO:TRAIN MODEL: started data preparation
+2021-08-22 15:06:38,011 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-22 15:06:38,013 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-22 15:06:38,014 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-22 15:06:38,030 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-22 15:06:38,031 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-22 15:06:38,039 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-22 15:06:38,041 root - INFO:DATA PREPROCESSING: Started Imputing NULL Values
+2021-08-22 15:06:38,046 root - INFO:DATA PREPROCESSING: Started Saving data Imputation model
+2021-08-22 15:06:38,050 root - INFO:DATA PREPROCESSING: Ended Saving data Imputation model
+2021-08-22 15:06:38,052 root - INFO:DATA PREPROCESSING: Started Imputing NULL Values
+2021-08-22 15:06:38,053 root - INFO:DATA PREPROCESSING: started removing constant features if any
+2021-08-22 15:06:38,057 root - INFO:DATA PREPROCESSING: Ended removing constant features if any
+2021-08-22 15:06:38,059 root - INFO:TRAIN MODEL: Ended data preparation
+2021-08-22 15:06:38,060 root - INFO:TRAIN MODEL: started data clustering
+2021-08-22 15:06:38,062 root - INFO:DATA CLUSTERING: starting initialization of data Clustering
+2021-08-22 15:06:38,063 root - INFO:DATA CLUSTERING: Ending initialization of data Clustering
+2021-08-22 15:06:38,064 root - INFO:DATA CLUSTERING: started clustering data for training
+2021-08-22 15:06:38,065 root - INFO:DATA CLUSTERING: started getting K value for cluster
+2021-08-22 15:06:39,965 root - INFO:DATA CLUSTERING: Ended getting K value for cluster
+2021-08-22 15:06:40,017 root - INFO:DATA CLUSTERING: started saving clustering model for prediction
+2021-08-22 15:06:40,020 root - INFO:DATA CLUSTERING: Ended saving clustering model for prediction
+2021-08-22 15:06:40,026 root - INFO:DATA CLUSTERING: Ended clustering data for training
+2021-08-22 15:06:40,028 root - INFO:TRAIN MODEL: Ended data clustering
+2021-08-22 15:06:40,030 root - INFO:TRAIN MODEL: starting model building
+2021-08-22 15:06:40,032 root - INFO:MODEL TRAINING: starting initialization of model building
+2021-08-22 15:06:40,033 root - INFO:MODEL TRAINING: Ending initialization of model building
+2021-08-22 15:06:40,035 root - INFO:MODEL TRAINING: started Train and save model
+2021-08-22 15:06:40,037 root - INFO:MODEL TRAINING: started get best trained model
+2021-08-22 15:06:40,039 root - INFO:MODEL TRAINING: started creating folder for saving models for each cluster
+2021-08-22 15:06:40,041 root - INFO:MODEL TRAINING: Ended creating folder for saving models for each cluster
+2021-08-22 15:06:40,043 root - INFO:MODEL TRAINING: started fetching list of models to train 
+2021-08-22 15:06:40,045 root - INFO:MODEL TRAINING: Ended fetching list of models to train 
+2021-08-22 15:06:40,056 root - INFO:MODEL TRAINING: started fetching model paramter for GradientBoost
+2021-08-22 15:06:40,058 root - INFO:MODEL TRAINING: Ended fetching model paramter for GradientBoost
+2021-08-22 15:06:40,060 root - INFO:MODEL TRAINING: started getting best estimator using GridSearch
+2021-08-22 15:06:54,303 root - INFO:MODEL TRAINING: Ended getting best estimator using GridSearch
+2021-08-22 15:06:54,305 root - INFO:MODEL TRAINING: started checking for model overfitting
+2021-08-22 15:06:54,312 root - INFO:MODEL TRAINING: Ended checking of model overfitting
+2021-08-22 15:06:54,319 root - INFO:MODEL TRAINING: started fetching model paramter for GradientBoost
+2021-08-22 15:06:54,321 root - INFO:MODEL TRAINING: Ended fetching model paramter for GradientBoost
+2021-08-22 15:06:54,323 root - INFO:MODEL TRAINING: started getting best estimator using GridSearch
+2021-08-22 15:07:05,133 root - INFO:MODEL TRAINING: Ended getting best estimator using GridSearch
+2021-08-22 15:07:05,135 root - INFO:MODEL TRAINING: started checking for model overfitting
+2021-08-22 15:07:05,143 root - INFO:MODEL TRAINING: Ended checking of model overfitting
+2021-08-22 15:07:05,144 root - INFO:MODEL TRAINING: Ended get best trained model
+2021-08-22 15:07:05,146 root - INFO:MODEL TRAINING: started saving the best model
+2021-08-22 15:07:05,147 root - INFO:MODEL TRAINING: started updating best model details
+2021-08-22 15:07:05,149 root - INFO:MODEL TRAINING: Ended updating best model details
+2021-08-22 15:07:05,154 root - INFO:MODEL TRAINING: Ended saving the best model
+2021-08-22 15:07:05,155 root - INFO:MODEL TRAINING: started saving the best model
+2021-08-22 15:07:05,156 root - INFO:MODEL TRAINING: started updating best model details
+2021-08-22 15:07:05,158 root - INFO:MODEL TRAINING: Ended updating best model details
+2021-08-22 15:07:05,163 root - INFO:MODEL TRAINING: Ended saving the best model
+2021-08-22 15:07:05,166 root - INFO:MODEL TRAINING: Ended Train and save model
+2021-08-22 15:07:05,168 root - INFO:TRAIN MODEL: Ended model building
+2021-08-22 15:07:05,169 root - INFO:TRAIN MODEL: Ended model Training
+2021-08-22 15:07:05,170 root - INFO:TRAIN MODEL: Ended Training process
+2021-08-22 23:20:35,225 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-22 23:20:35,241 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-22 23:20:35,257 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-22 23:20:35,265 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-22 23:20:35,353 root - INFO:DATA PREPROCESSING: started removing constant features if any
+2021-08-22 23:20:35,356 root - ERROR:DATA PREPROCESSING: Error while removing constant Features ERROR:'numpy.ndarray' object has no attribute 'columns'
+2021-08-22 23:25:13,346 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-22 23:25:13,347 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-22 23:25:13,363 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-22 23:25:13,372 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-22 23:25:13,378 root - INFO:DATA PREPROCESSING: started removing constant features if any
+2021-08-22 23:25:13,382 root - INFO:DATA PREPROCESSING: Ended removing constant features if any
+2021-08-22 23:26:14,397 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-22 23:26:14,399 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-22 23:26:14,414 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-22 23:26:14,423 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-22 23:26:14,435 root - INFO:DATA PREPROCESSING: started removing constant features if any
+2021-08-22 23:26:14,439 root - INFO:DATA PREPROCESSING: Ended removing constant features if any
+2021-08-22 23:28:11,606 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-22 23:28:11,607 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-22 23:28:11,623 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-22 23:28:11,632 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-22 23:28:11,637 root - INFO:DATA PREPROCESSING: started removing constant features if any
+2021-08-22 23:28:11,641 root - INFO:DATA PREPROCESSING: Ended removing constant features if any
+2021-08-22 23:29:48,440 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-22 23:29:48,441 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-22 23:29:48,458 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-22 23:29:48,467 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-22 23:29:48,471 root - INFO:DATA PREPROCESSING: started removing constant features if any
+2021-08-22 23:29:48,474 root - INFO:DATA PREPROCESSING: Ended removing constant features if any
+2021-08-22 23:46:20,037 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-22 23:46:20,038 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-22 23:46:20,055 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-22 23:46:20,065 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-22 23:46:20,070 root - INFO:DATA PREPROCESSING: started removing constant features if any
+2021-08-22 23:46:20,073 root - INFO:DATA PREPROCESSING: Ended removing constant features if any
+2021-08-22 23:47:16,866 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-22 23:47:16,868 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-22 23:47:16,883 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-22 23:47:16,892 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-22 23:47:16,896 root - INFO:DATA PREPROCESSING: started removing constant features if any
+2021-08-22 23:47:16,899 root - INFO:DATA PREPROCESSING: Ended removing constant features if any
+2021-08-22 23:47:21,167 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-22 23:47:21,168 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-22 23:47:21,170 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-22 23:47:21,178 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-22 23:50:03,606 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-22 23:50:03,608 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-22 23:50:03,609 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-22 23:50:03,618 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-22 23:51:26,885 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-22 23:51:26,887 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-22 23:51:26,889 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-22 23:51:26,905 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-22 23:55:46,236 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-22 23:55:46,238 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-22 23:55:46,239 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-22 23:55:46,248 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data

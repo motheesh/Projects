@@ -1,0 +1,184 @@
+2021-08-24 00:05:09,211 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:05:09,214 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:05:09,218 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 00:05:09,229 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 00:06:16,019 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:06:16,021 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:06:16,023 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 00:06:16,033 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 00:07:28,223 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:07:28,226 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:07:28,229 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 00:07:28,239 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 00:13:55,500 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:13:55,502 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:13:55,505 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 00:13:55,516 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 00:13:56,917 root - INFO:MODEL TRAINING: starting initialization of model Training
+2021-08-24 00:13:56,919 root - INFO:MODEL TRAINING: Ending initialization of model Training
+2021-08-24 00:13:56,921 root - INFO:MODEL TRAINING: started getting trained model Details
+2021-08-24 00:13:56,924 root - INFO:MODEL TRAINING: Ended getting trained model Details
+2021-08-24 00:13:59,135 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:13:59,137 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:13:59,139 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 00:13:59,148 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 00:14:06,718 root - INFO:MODEL TRAINING: starting initialization of model Training
+2021-08-24 00:14:06,720 root - INFO:MODEL TRAINING: Ending initialization of model Training
+2021-08-24 00:14:06,722 root - INFO:MODEL TRAINING: started getting trained model Details
+2021-08-24 00:14:06,725 root - INFO:MODEL TRAINING: Ended getting trained model Details
+2021-08-24 00:29:06,639 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:29:06,642 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:29:06,645 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 00:29:06,652 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 00:29:08,820 root - INFO:MODEL TRAINING: starting initialization of model Training
+2021-08-24 00:29:08,822 root - INFO:MODEL TRAINING: Ending initialization of model Training
+2021-08-24 00:29:08,824 root - INFO:MODEL TRAINING: started getting trained model Details
+2021-08-24 00:29:08,827 root - INFO:MODEL TRAINING: Ended getting trained model Details
+2021-08-24 00:29:10,829 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:29:10,831 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:29:10,834 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 00:29:10,845 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 00:29:29,965 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:29:29,967 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:29:29,968 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-24 00:29:29,976 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-24 00:29:36,894 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:29:36,896 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:29:36,899 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-24 00:29:36,910 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-24 00:29:39,456 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:29:39,458 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:29:39,461 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-24 00:29:39,470 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-24 00:29:47,869 root - INFO:MODEL TRAINING: starting initialization of model Training
+2021-08-24 00:29:47,871 root - INFO:MODEL TRAINING: Ending initialization of model Training
+2021-08-24 00:29:47,873 root - INFO:MODEL TRAINING: started getting trained model Details
+2021-08-24 00:29:47,876 root - INFO:MODEL TRAINING: Ended getting trained model Details
+2021-08-24 00:29:57,488 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:29:57,491 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:29:57,493 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 00:29:57,504 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 00:30:14,730 root - INFO:MODEL TRAINING: starting initialization of model Training
+2021-08-24 00:30:14,732 root - INFO:MODEL TRAINING: Ending initialization of model Training
+2021-08-24 00:30:14,734 root - INFO:MODEL TRAINING: started getting trained model Details
+2021-08-24 00:30:14,736 root - INFO:MODEL TRAINING: Ended getting trained model Details
+2021-08-24 00:31:15,257 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:31:15,259 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:31:15,276 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-24 00:31:15,286 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-24 00:33:09,191 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:33:09,194 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:33:09,196 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 00:33:09,205 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 00:33:13,214 root - INFO:MODEL TRAINING: starting initialization of model Training
+2021-08-24 00:33:13,216 root - INFO:MODEL TRAINING: Ending initialization of model Training
+2021-08-24 00:33:13,218 root - INFO:MODEL TRAINING: started getting trained model Details
+2021-08-24 00:33:13,222 root - INFO:MODEL TRAINING: Ended getting trained model Details
+2021-08-24 00:33:47,282 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:33:47,284 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:33:47,285 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 00:33:47,292 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 00:34:17,152 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:34:17,155 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:34:17,189 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 00:34:17,197 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 00:34:29,974 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:34:29,975 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:34:29,977 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-24 00:34:29,985 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-24 00:34:33,156 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:34:33,158 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:34:33,160 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-24 00:34:33,170 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-24 00:34:48,089 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:34:48,092 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:34:48,094 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 00:34:48,103 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 00:34:52,515 root - INFO:MODEL TRAINING: starting initialization of model Training
+2021-08-24 00:34:52,517 root - INFO:MODEL TRAINING: Ending initialization of model Training
+2021-08-24 00:34:52,519 root - INFO:MODEL TRAINING: started getting trained model Details
+2021-08-24 00:34:52,522 root - INFO:MODEL TRAINING: Ended getting trained model Details
+2021-08-24 00:34:56,103 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 00:34:56,105 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 00:34:56,106 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 00:34:56,113 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 11:08:48,703 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:08:48,718 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:08:48,720 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 11:08:49,024 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 11:09:01,952 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:09:01,954 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:09:01,955 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-24 11:09:02,034 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-24 11:10:04,325 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:10:04,327 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:10:04,329 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 11:10:04,339 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 11:10:23,811 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:10:23,814 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:10:23,816 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-24 11:10:23,828 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-24 11:15:35,493 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:15:35,495 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:15:35,497 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-24 11:15:35,510 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-24 11:16:26,682 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:16:26,685 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:16:26,688 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 11:16:26,701 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 11:16:51,872 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:16:51,874 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:16:51,875 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 11:16:51,888 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 11:17:16,208 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:17:16,210 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:17:16,213 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 11:17:16,224 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 11:17:33,936 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:17:33,938 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:17:33,942 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 11:17:33,956 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 11:17:46,978 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:17:46,980 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:17:46,982 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 11:17:46,995 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 11:18:00,895 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:18:00,896 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:18:00,898 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-24 11:18:00,907 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-24 11:18:19,261 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:18:19,263 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:18:19,265 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 11:18:19,277 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 11:18:31,721 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:18:31,723 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:18:31,725 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-24 11:18:31,738 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-24 11:19:43,868 root - INFO:MODEL TRAINING: starting initialization of model Training
+2021-08-24 11:19:43,871 root - INFO:MODEL TRAINING: Ending initialization of model Training
+2021-08-24 11:19:43,875 root - INFO:MODEL TRAINING: started getting trained model Details
+2021-08-24 11:19:43,921 root - INFO:MODEL TRAINING: Ended getting trained model Details
+2021-08-24 11:20:55,072 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:20:55,076 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:20:55,078 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 11:20:55,091 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 11:21:03,812 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:21:03,814 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:21:03,815 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-24 11:21:03,828 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data
+2021-08-24 11:21:19,099 root - INFO:MODEL TRAINING: starting initialization of model Training
+2021-08-24 11:21:19,101 root - INFO:MODEL TRAINING: Ending initialization of model Training
+2021-08-24 11:21:19,103 root - INFO:MODEL TRAINING: started getting trained model Details
+2021-08-24 11:21:19,107 root - INFO:MODEL TRAINING: Ended getting trained model Details
+2021-08-24 11:21:34,953 root - INFO:MODEL TRAINING: starting initialization of model Training
+2021-08-24 11:21:34,956 root - INFO:MODEL TRAINING: Ending initialization of model Training
+2021-08-24 11:21:34,959 root - INFO:MODEL TRAINING: started getting trained model Details
+2021-08-24 11:21:34,964 root - INFO:MODEL TRAINING: Ended getting trained model Details
+2021-08-24 11:21:41,961 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:21:41,964 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:21:41,967 root - INFO:DATA PREPROCESSING: Started getting Training data
+2021-08-24 11:21:41,978 root - INFO:DATA PREPROCESSING: Ended getting Training data
+2021-08-24 11:24:18,533 root - INFO:DATA PREPROCESSING: starting initialization of data preprocessing
+2021-08-24 11:24:18,537 root - INFO:DATA PREPROCESSING: Ending initialization data preprocessing
+2021-08-24 11:24:18,539 root - INFO:DATA PREPROCESSING: Started Encoding Categorical data
+2021-08-24 11:24:18,550 root - INFO:DATA PREPROCESSING: Ended Encoding Categorical data

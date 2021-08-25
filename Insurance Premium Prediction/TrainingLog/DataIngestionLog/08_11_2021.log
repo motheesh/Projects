@@ -1,0 +1,190 @@
+2021-08-11 18:02:55,064 root - INFO:starting initialization data ingestion
+2021-08-11 18:02:55,066 root - INFO: starting initialization of Train data details
+2021-08-11 18:02:55,073 root - INFO:Ending Initialization of Train data details
+2021-08-11 18:02:55,074 root - INFO:Starting preparation of query details
+2021-08-11 18:02:55,076 root - INFO:Ending preparation of query details
+2021-08-11 18:02:55,077 root - INFO:creating DB connection starts 
+2021-08-11 18:02:59,695 cassandra.policies - INFO:Using datacenter 'us-east4' for DCAwareRoundRobinPolicy (via host 'c7900e08-19ac-4f39-90a1-ca410ce1f2ad-us-east4.db.astra.datastax.com:29042:00e7b165-75ca-4d6e-a475-9519b304c837'); if incorrect, please specify a local_dc to the constructor, or limit contact points to local cluster nodes
+2021-08-11 18:03:04,375 root - INFO:created DB connection
+2021-08-11 18:03:04,379 root - INFO:Ending initialization data ingestion
+2021-08-11 18:03:04,383 root - INFO:Starting data upload to DB
+2021-08-11 18:03:04,386 root - INFO:starting get good data
+2021-08-11 18:03:04,418 root - INFO:Ending get good data
+2021-08-11 18:03:04,421 root - INFO:starting drop table Operation
+2021-08-11 18:03:04,423 root - INFO:executing query starts
+2021-08-11 18:03:11,091 root - INFO:Ending query execution
+2021-08-11 18:03:11,106 root - INFO:Ending drop table Operation
+2021-08-11 18:03:11,106 root - INFO:starting  create table Operation
+2021-08-11 18:03:11,106 root - INFO:starting one query execution
+2021-08-11 18:03:12,958 root - INFO:Ending one query execution
+2021-08-11 18:03:12,961 root - INFO:Ending create table Operation
+2021-08-11 18:03:12,964 root - INFO:starting Batch data insertion
+2021-08-11 18:03:12,967 root - INFO:starting Batch Data query preperation
+2021-08-11 18:03:14,960 root - INFO:Ending Batch Data query preperation
+2021-08-11 18:03:16,838 cassandra.protocol - WARNING:Server warning: Batch for {"63373930306530382d313961632d346633392d393061312d636134313063653166326164_insurance".insurance} is of size 186kB, exceeding specified warning threshold 64kB
+2021-08-11 18:03:16,843 root - INFO:Ending Batch data insertion
+2021-08-11 18:03:16,846 root - INFO:started close DB connection operation
+2021-08-11 18:03:16,852 root - INFO:closed DB connection successfully
+2021-08-11 18:03:16,855 root - ERROR:error while closing db connection 'logger' object has no attribute 'close'
+2021-08-11 18:03:16,858 root - ERROR:Error while uploading data to DB ERROR:'logger' object has no attribute 'close'
+2021-08-11 18:04:22,828 root - INFO:starting initialization data ingestion
+2021-08-11 18:04:22,829 root - INFO: starting initialization of Train data details
+2021-08-11 18:04:22,837 root - INFO:Ending Initialization of Train data details
+2021-08-11 18:04:22,839 root - INFO:Starting preparation of query details
+2021-08-11 18:04:22,840 root - INFO:Ending preparation of query details
+2021-08-11 18:04:22,842 root - INFO:creating DB connection starts 
+2021-08-11 18:04:26,979 cassandra.policies - INFO:Using datacenter 'us-east4' for DCAwareRoundRobinPolicy (via host 'c7900e08-19ac-4f39-90a1-ca410ce1f2ad-us-east4.db.astra.datastax.com:29042:cd339e4c-492e-40f4-a26d-98d588d7054d'); if incorrect, please specify a local_dc to the constructor, or limit contact points to local cluster nodes
+2021-08-11 18:04:34,542 root - INFO:created DB connection
+2021-08-11 18:04:34,542 root - INFO:Ending initialization data ingestion
+2021-08-11 18:04:34,542 root - INFO:Starting data upload to DB
+2021-08-11 18:04:34,542 root - INFO:starting get good data
+2021-08-11 18:04:34,574 root - INFO:Ending get good data
+2021-08-11 18:04:34,574 root - INFO:starting drop table Operation
+2021-08-11 18:04:34,574 root - INFO:executing query starts
+2021-08-11 18:04:38,331 root - INFO:Ending query execution
+2021-08-11 18:04:38,334 root - INFO:Ending drop table Operation
+2021-08-11 18:04:38,337 root - INFO:starting  create table Operation
+2021-08-11 18:04:38,340 root - INFO:starting one query execution
+2021-08-11 18:04:40,154 root - INFO:Ending one query execution
+2021-08-11 18:04:40,157 root - INFO:Ending create table Operation
+2021-08-11 18:04:40,160 root - INFO:starting Batch data insertion
+2021-08-11 18:04:40,164 root - INFO:starting Batch Data query preperation
+2021-08-11 18:04:42,083 root - INFO:Ending Batch Data query preperation
+2021-08-11 18:04:43,646 cassandra.protocol - WARNING:Server warning: Batch for {"63373930306530382d313961632d346633392d393061312d636134313063653166326164_insurance".insurance} is of size 186kB, exceeding specified warning threshold 64kB
+2021-08-11 18:04:43,651 root - INFO:Ending Batch data insertion
+2021-08-11 18:04:43,654 root - INFO:started close DB connection operation
+2021-08-11 18:04:43,660 root - INFO:closed DB connection successfully
+2021-08-11 18:04:43,664 root - INFO:data uploaded to DB successfully and created Training input csv file
+2021-08-11 18:04:43,667 root - INFO:Starting create training input
+2021-08-11 18:04:43,670 root - INFO:creating DB connection starts 
+2021-08-11 18:04:48,519 cassandra.policies - INFO:Using datacenter 'us-east4' for DCAwareRoundRobinPolicy (via host 'c7900e08-19ac-4f39-90a1-ca410ce1f2ad-us-east4.db.astra.datastax.com:29042:00e7b165-75ca-4d6e-a475-9519b304c837'); if incorrect, please specify a local_dc to the constructor, or limit contact points to local cluster nodes
+2021-08-11 18:04:53,072 root - INFO:created DB connection
+2021-08-11 18:04:53,076 root - INFO:Starting get data from DB
+2021-08-11 18:04:53,079 root - INFO:starting get train data Operation
+2021-08-11 18:04:53,082 root - INFO:executing query starts
+2021-08-11 18:04:54,233 root - INFO:Ending query execution
+2021-08-11 18:04:54,233 root - INFO:Ending get train data Operation
+2021-08-11 18:04:54,233 root - INFO:Ending get data from DB
+2021-08-11 18:04:54,233 root - INFO:started close DB connection operation
+2021-08-11 18:04:55,715 root - INFO:closed DB connection successfully
+2021-08-11 18:04:55,715 root - INFO:Starting convert Rs to DF
+2021-08-11 18:04:55,731 root - INFO:Ending convert Rs to DF
+2021-08-11 18:04:55,731 root - INFO:Ending create training input
+2021-08-11 22:30:38,068 root - INFO:starting initialization data ingestion
+2021-08-11 22:30:38,089 root - INFO: starting initialization of Train data details
+2021-08-11 22:30:38,096 root - INFO:Ending Initialization of Train data details
+2021-08-11 22:30:38,097 root - INFO:Starting preparation of query details
+2021-08-11 22:30:38,098 root - INFO:Ending preparation of query details
+2021-08-11 22:30:38,100 root - INFO:creating DB connection starts 
+2021-08-11 22:30:42,366 cassandra.policies - INFO:Using datacenter 'us-east4' for DCAwareRoundRobinPolicy (via host 'c7900e08-19ac-4f39-90a1-ca410ce1f2ad-us-east4.db.astra.datastax.com:29042:fa88482e-773b-4a19-b184-d6b2ff56bbdd'); if incorrect, please specify a local_dc to the constructor, or limit contact points to local cluster nodes
+2021-08-11 22:30:45,441 root - INFO:created DB connection
+2021-08-11 22:30:45,444 root - INFO:Ending initialization data ingestion
+2021-08-11 22:30:45,448 root - INFO:Starting data upload to DB
+2021-08-11 22:30:45,451 root - INFO:starting get good data
+2021-08-11 22:30:45,517 root - INFO:Ending get good data
+2021-08-11 22:30:45,522 root - INFO:starting drop table Operation
+2021-08-11 22:30:45,524 root - INFO:executing query starts
+2021-08-11 22:30:55,468 root - INFO:Ending query execution
+2021-08-11 22:30:55,470 root - INFO:Ending drop table Operation
+2021-08-11 22:30:55,472 root - INFO:starting  create table Operation
+2021-08-11 22:30:55,473 root - INFO:starting one query execution
+2021-08-11 22:30:57,257 root - INFO:Ending one query execution
+2021-08-11 22:30:57,261 root - INFO:Ending create table Operation
+2021-08-11 22:30:57,264 root - INFO:starting Batch data insertion
+2021-08-11 22:30:57,267 root - INFO:starting Batch Data query preperation
+2021-08-11 22:30:59,184 root - INFO:Ending Batch Data query preperation
+2021-08-11 22:31:00,539 cassandra.protocol - WARNING:Server warning: Batch for {"63373930306530382d313961632d346633392d393061312d636134313063653166326164_insurance".insurance} is of size 186kB, exceeding specified warning threshold 64kB
+2021-08-11 22:31:00,545 root - INFO:Ending Batch data insertion
+2021-08-11 22:31:00,548 root - INFO:started close DB connection operation
+2021-08-11 22:31:00,554 root - INFO:closed DB connection successfully
+2021-08-11 22:31:00,557 root - INFO:data uploaded to DB successfully and created Training input csv file
+2021-08-11 22:31:00,560 root - INFO:Starting create training input
+2021-08-11 22:31:00,563 root - INFO:creating DB connection starts 
+2021-08-11 22:31:04,520 cassandra.policies - INFO:Using datacenter 'us-east4' for DCAwareRoundRobinPolicy (via host 'c7900e08-19ac-4f39-90a1-ca410ce1f2ad-us-east4.db.astra.datastax.com:29042:cd339e4c-492e-40f4-a26d-98d588d7054d'); if incorrect, please specify a local_dc to the constructor, or limit contact points to local cluster nodes
+2021-08-11 22:31:07,524 root - INFO:created DB connection
+2021-08-11 22:31:07,525 root - INFO:Starting get data from DB
+2021-08-11 22:31:07,527 root - INFO:starting get train data Operation
+2021-08-11 22:31:07,528 root - INFO:executing query starts
+2021-08-11 22:31:09,141 root - INFO:Ending query execution
+2021-08-11 22:31:09,144 root - INFO:Ending get train data Operation
+2021-08-11 22:31:09,148 root - INFO:Ending get data from DB
+2021-08-11 22:31:09,151 root - INFO:started close DB connection operation
+2021-08-11 22:31:10,195 root - INFO:closed DB connection successfully
+2021-08-11 22:31:10,198 root - INFO:Starting convert Rs to DF
+2021-08-11 22:31:10,203 root - INFO:Ending convert Rs to DF
+2021-08-11 22:31:10,209 root - INFO:Ending create training input
+2021-08-11 22:32:40,387 root - INFO:starting initialization data ingestion
+2021-08-11 22:32:40,389 root - INFO: starting initialization of Train data details
+2021-08-11 22:32:40,398 root - INFO:Ending Initialization of Train data details
+2021-08-11 22:32:40,400 root - INFO:Starting preparation of query details
+2021-08-11 22:32:40,402 root - INFO:Ending preparation of query details
+2021-08-11 22:32:40,404 root - INFO:creating DB connection starts 
+2021-08-11 22:32:45,060 cassandra.policies - INFO:Using datacenter 'us-east4' for DCAwareRoundRobinPolicy (via host 'c7900e08-19ac-4f39-90a1-ca410ce1f2ad-us-east4.db.astra.datastax.com:29042:00e7b165-75ca-4d6e-a475-9519b304c837'); if incorrect, please specify a local_dc to the constructor, or limit contact points to local cluster nodes
+2021-08-11 22:32:47,121 cassandra.cluster - WARNING:[control connection] Error connecting to c7900e08-19ac-4f39-90a1-ca410ce1f2ad-us-east4.db.astra.datastax.com:29042:00e7b165-75ca-4d6e-a475-9519b304c837:
+Traceback (most recent call last):
+  File "cassandra\cluster.py", line 3522, in cassandra.cluster.ControlConnection._reconnect_internal
+  File "cassandra\cluster.py", line 3599, in cassandra.cluster.ControlConnection._try_connect
+  File "cassandra\cluster.py", line 3596, in cassandra.cluster.ControlConnection._try_connect
+  File "cassandra\cluster.py", line 3698, in cassandra.cluster.ControlConnection._refresh_schema
+  File "cassandra\metadata.py", line 142, in cassandra.metadata.Metadata.refresh
+  File "cassandra\metadata.py", line 165, in cassandra.metadata.Metadata._rebuild_all
+  File "cassandra\metadata.py", line 2872, in get_all_keyspaces
+  File "cassandra\metadata.py", line 2522, in get_all_keyspaces
+  File "cassandra\metadata.py", line 2031, in get_all_keyspaces
+  File "cassandra\metadata.py", line 2811, in cassandra.metadata.SchemaParserV4._query_all
+  File "cassandra\connection.py", line 1073, in cassandra.connection.Connection.wait_for_responses
+  File "cassandra\connection.py", line 1071, in cassandra.connection.Connection.wait_for_responses
+  File "cassandra\connection.py", line 1572, in cassandra.connection.ResponseWaiter.deliver
+cassandra.OperationTimedOut: errors=None, last_host=None
+2021-08-11 22:32:54,614 root - INFO:created DB connection
+2021-08-11 22:32:54,618 root - INFO:Ending initialization data ingestion
+2021-08-11 22:32:54,621 root - INFO:Starting data upload to DB
+2021-08-11 22:32:54,624 root - INFO:starting get good data
+2021-08-11 22:32:54,654 root - INFO:Ending get good data
+2021-08-11 22:32:54,656 root - INFO:starting drop table Operation
+2021-08-11 22:32:54,658 root - INFO:executing query starts
+2021-08-11 22:32:58,996 root - INFO:Ending query execution
+2021-08-11 22:32:58,999 root - INFO:Ending drop table Operation
+2021-08-11 22:32:59,003 root - INFO:starting  create table Operation
+2021-08-11 22:32:59,006 root - INFO:starting one query execution
+2021-08-11 22:33:00,708 root - INFO:Ending one query execution
+2021-08-11 22:33:00,711 root - INFO:Ending create table Operation
+2021-08-11 22:33:00,715 root - INFO:starting Batch data insertion
+2021-08-11 22:33:00,718 root - INFO:starting Batch Data query preperation
+2021-08-11 22:33:02,654 root - INFO:Ending Batch Data query preperation
+2021-08-11 22:33:03,938 cassandra.protocol - WARNING:Server warning: Batch for {"63373930306530382d313961632d346633392d393061312d636134313063653166326164_insurance".insurance} is of size 186kB, exceeding specified warning threshold 64kB
+2021-08-11 22:33:03,943 root - INFO:Ending Batch data insertion
+2021-08-11 22:33:03,947 root - INFO:started close DB connection operation
+2021-08-11 22:33:03,953 root - INFO:closed DB connection successfully
+2021-08-11 22:33:03,956 root - INFO:data uploaded to DB successfully and created Training input csv file
+2021-08-11 22:33:03,959 root - INFO:Starting create training input
+2021-08-11 22:33:03,962 root - INFO:creating DB connection starts 
+2021-08-11 22:33:09,884 cassandra.policies - INFO:Using datacenter 'us-east4' for DCAwareRoundRobinPolicy (via host 'c7900e08-19ac-4f39-90a1-ca410ce1f2ad-us-east4.db.astra.datastax.com:29042:00e7b165-75ca-4d6e-a475-9519b304c837'); if incorrect, please specify a local_dc to the constructor, or limit contact points to local cluster nodes
+2021-08-11 22:33:11,898 cassandra.cluster - WARNING:[control connection] Error connecting to c7900e08-19ac-4f39-90a1-ca410ce1f2ad-us-east4.db.astra.datastax.com:29042:00e7b165-75ca-4d6e-a475-9519b304c837:
+Traceback (most recent call last):
+  File "cassandra\cluster.py", line 3522, in cassandra.cluster.ControlConnection._reconnect_internal
+  File "cassandra\cluster.py", line 3599, in cassandra.cluster.ControlConnection._try_connect
+  File "cassandra\cluster.py", line 3596, in cassandra.cluster.ControlConnection._try_connect
+  File "cassandra\cluster.py", line 3698, in cassandra.cluster.ControlConnection._refresh_schema
+  File "cassandra\metadata.py", line 142, in cassandra.metadata.Metadata.refresh
+  File "cassandra\metadata.py", line 165, in cassandra.metadata.Metadata._rebuild_all
+  File "cassandra\metadata.py", line 2872, in get_all_keyspaces
+  File "cassandra\metadata.py", line 2522, in get_all_keyspaces
+  File "cassandra\metadata.py", line 2031, in get_all_keyspaces
+  File "cassandra\metadata.py", line 2811, in cassandra.metadata.SchemaParserV4._query_all
+  File "cassandra\connection.py", line 1073, in cassandra.connection.Connection.wait_for_responses
+  File "cassandra\connection.py", line 1071, in cassandra.connection.Connection.wait_for_responses
+  File "cassandra\connection.py", line 1572, in cassandra.connection.ResponseWaiter.deliver
+cassandra.OperationTimedOut: errors=None, last_host=None
+2021-08-11 22:33:20,907 root - INFO:created DB connection
+2021-08-11 22:33:20,910 root - INFO:Starting get data from DB
+2021-08-11 22:33:20,913 root - INFO:starting get train data Operation
+2021-08-11 22:33:20,915 root - INFO:executing query starts
+2021-08-11 22:33:22,137 root - INFO:Ending query execution
+2021-08-11 22:33:22,139 root - INFO:Ending get train data Operation
+2021-08-11 22:33:22,140 root - INFO:Ending get data from DB
+2021-08-11 22:33:22,141 root - INFO:started close DB connection operation
+2021-08-11 22:33:22,143 root - INFO:closed DB connection successfully
+2021-08-11 22:33:22,144 root - INFO:Starting convert Rs to DF
+2021-08-11 22:33:22,149 root - INFO:Ending convert Rs to DF
+2021-08-11 22:33:22,155 root - INFO:Ending create training input

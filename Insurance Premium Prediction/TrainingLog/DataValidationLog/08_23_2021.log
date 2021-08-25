@@ -1,0 +1,270 @@
+2021-08-23 09:33:57,910 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 09:33:57,912 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 09:33:57,915 root - INFO:DATA VALIDATION: Starting the Train Validation
+2021-08-23 09:33:57,917 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-23 09:33:57,925 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-23 09:33:57,927 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-23 09:33:57,928 root - INFO:DATA VALIDATION: File name is not matched
+2021-08-23 09:33:57,930 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-23 09:33:57,931 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-23 09:33:57,932 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-23 09:33:58,048 root - INFO:DATA VALIDATION: Starting column values and data type check
+2021-08-23 09:33:58,050 root - INFO:DATA VALIDATION: starting column Names validation
+2021-08-23 09:33:58,052 root - INFO:DATA VALIDATION: Ending column Names validation
+2021-08-23 09:33:58,053 root - INFO:DATA VALIDATION: starting column Type validation
+2021-08-23 09:33:58,054 root - INFO:DATA VALIDATION: Ending column Type validation
+2021-08-23 09:33:58,055 root - INFO:DATA VALIDATION: starting >95% Na validation
+2021-08-23 09:33:58,306 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-23 09:33:58,380 root - INFO:DATA VALIDATION: completing >95% NA validation
+2021-08-23 09:33:58,381 root - INFO:DATA VALIDATION: Column validation succesfull
+2021-08-23 09:33:58,382 root - INFO:DATA VALIDATION: started Replacing NA values with NULL
+2021-08-23 09:33:58,407 root - INFO:DATA VALIDATION: ended Replacing NA values with NULL
+2021-08-23 09:33:58,410 root - INFO:DATA VALIDATION: started data moving to good data folder
+2021-08-23 09:33:58,481 root - INFO:DATA VALIDATION: ending data movement to good data folder
+2021-08-23 09:33:58,485 root - INFO:DATA VALIDATION: Ending the Train Validation
+2021-08-23 09:33:58,498 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 09:33:58,499 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 10:05:59,776 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 10:05:59,818 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 10:05:59,822 root - INFO:DATA VALIDATION: Starting the Train Validation
+2021-08-23 10:05:59,825 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-23 10:05:59,829 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-23 10:05:59,832 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-23 10:05:59,836 root - INFO:DATA VALIDATION: File name is not matched
+2021-08-23 10:05:59,840 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-23 10:05:59,843 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-23 10:05:59,847 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-23 10:05:59,873 root - INFO:DATA VALIDATION: Starting column values and data type check
+2021-08-23 10:05:59,876 root - INFO:DATA VALIDATION: starting column Names validation
+2021-08-23 10:05:59,878 root - INFO:DATA VALIDATION: Ending column Names validation
+2021-08-23 10:05:59,880 root - INFO:DATA VALIDATION: starting column Type validation
+2021-08-23 10:05:59,882 root - INFO:DATA VALIDATION: Ending column Type validation
+2021-08-23 10:05:59,884 root - INFO:DATA VALIDATION: starting >95% Na validation
+2021-08-23 10:05:59,995 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-23 10:06:00,000 root - INFO:DATA VALIDATION: completing >95% NA validation
+2021-08-23 10:06:00,002 root - INFO:DATA VALIDATION: Column validation succesfull
+2021-08-23 10:06:00,005 root - INFO:DATA VALIDATION: started Replacing NA values with NULL
+2021-08-23 10:06:00,008 root - INFO:DATA VALIDATION: ended Replacing NA values with NULL
+2021-08-23 10:06:00,010 root - INFO:DATA VALIDATION: started data moving to good data folder
+2021-08-23 10:06:00,067 root - INFO:DATA VALIDATION: ending data movement to good data folder
+2021-08-23 10:06:00,069 root - INFO:DATA VALIDATION: Ending the Train Validation
+2021-08-23 10:06:00,101 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 10:06:00,102 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 10:06:00,103 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-23 10:06:00,105 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-23 10:10:08,376 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 10:10:08,378 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 10:10:08,380 root - INFO:DATA VALIDATION: Starting the Train Validation
+2021-08-23 10:10:08,381 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-23 10:10:08,382 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-23 10:10:08,384 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-23 10:10:08,386 root - INFO:DATA VALIDATION: File name is not matched
+2021-08-23 10:10:08,387 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-23 10:10:08,388 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-23 10:10:08,390 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-23 10:10:08,396 root - INFO:DATA VALIDATION: Starting column values and data type check
+2021-08-23 10:10:08,398 root - INFO:DATA VALIDATION: starting column Names validation
+2021-08-23 10:10:08,400 root - INFO:DATA VALIDATION: Ending column Names validation
+2021-08-23 10:10:08,401 root - INFO:DATA VALIDATION: starting column Type validation
+2021-08-23 10:10:08,402 root - INFO:DATA VALIDATION: Ending column Type validation
+2021-08-23 10:10:08,404 root - INFO:DATA VALIDATION: starting >95% Na validation
+2021-08-23 10:10:08,407 root - INFO:DATA VALIDATION: completing >95% NA validation
+2021-08-23 10:10:08,409 root - INFO:DATA VALIDATION: Column validation succesfull
+2021-08-23 10:10:08,410 root - INFO:DATA VALIDATION: started Replacing NA values with NULL
+2021-08-23 10:10:08,412 root - INFO:DATA VALIDATION: ended Replacing NA values with NULL
+2021-08-23 10:10:08,413 root - INFO:DATA VALIDATION: started data moving to good data folder
+2021-08-23 10:10:08,421 root - INFO:DATA VALIDATION: ending data movement to good data folder
+2021-08-23 10:10:08,422 root - INFO:DATA VALIDATION: Ending the Train Validation
+2021-08-23 10:10:08,429 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 10:10:08,430 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 10:10:08,431 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-23 10:10:08,432 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-23 11:30:24,123 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 11:30:24,124 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 11:31:00,818 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 11:31:00,819 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 11:33:05,282 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 11:33:05,283 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 11:34:26,730 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 11:34:26,731 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 11:51:42,349 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 11:51:42,351 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 11:53:01,001 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 11:53:01,002 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 11:55:46,257 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 11:55:46,259 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 12:20:33,220 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 12:20:33,222 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 12:23:35,162 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 12:23:35,163 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 12:29:13,891 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 12:29:13,894 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 12:31:37,620 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 12:31:37,622 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 12:32:57,772 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 12:32:57,773 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 12:41:31,827 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-23 12:41:31,828 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-23 16:45:02,989 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 16:45:02,991 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 16:47:48,630 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 16:47:48,632 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 16:49:49,153 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 16:49:49,155 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 16:49:53,176 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 16:49:53,178 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 16:50:23,254 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 16:50:23,256 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 16:50:43,888 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 16:50:43,890 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 18:38:59,019 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 18:38:59,021 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 18:39:40,955 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 18:39:40,957 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:03:11,989 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:03:11,992 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:04:50,796 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:04:50,798 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:05:38,227 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:05:38,228 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:06:44,983 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:06:44,985 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:07:22,519 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:07:22,521 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:07:47,256 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:07:47,258 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:10:25,672 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:10:25,674 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:14:13,773 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:14:13,776 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:37:59,041 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:37:59,043 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:39:32,602 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:39:32,604 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:39:39,230 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:39:39,232 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:39:45,394 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:39:45,395 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:39:53,904 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:39:53,906 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:39:56,537 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:39:56,540 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:39:59,595 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:39:59,597 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:40:02,026 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:40:02,028 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:43:49,454 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:43:49,456 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 19:43:52,187 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 19:43:52,189 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 21:04:16,408 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 21:04:16,410 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 22:12:03,536 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 22:12:03,538 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:26:25,138 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:26:25,235 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:28:05,874 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:28:05,877 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:28:06,994 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:28:06,996 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:28:23,133 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:28:23,135 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:29:44,837 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:29:44,839 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:29:52,992 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:29:52,994 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:30:21,991 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:30:21,993 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:30:52,146 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:30:52,148 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:32:42,979 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:32:42,982 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:34:33,530 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:34:33,532 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:36:21,339 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:36:21,341 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:36:21,343 root - INFO:DATA VALIDATION: Starting the Train Validation
+2021-08-23 23:36:21,345 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-23 23:36:21,403 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-23 23:36:21,406 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-23 23:36:21,408 root - INFO:DATA VALIDATION: File name is not matched
+2021-08-23 23:36:21,410 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-23 23:36:21,412 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-23 23:36:21,414 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-23 23:36:21,528 root - INFO:DATA VALIDATION: Starting column values and data type check
+2021-08-23 23:36:21,535 root - INFO:DATA VALIDATION: starting column Names validation
+2021-08-23 23:36:21,539 root - INFO:DATA VALIDATION: Ending column Names validation
+2021-08-23 23:36:21,544 root - INFO:DATA VALIDATION: starting column Type validation
+2021-08-23 23:36:21,548 root - INFO:DATA VALIDATION: Ending column Type validation
+2021-08-23 23:36:21,553 root - INFO:DATA VALIDATION: starting >95% Na validation
+2021-08-23 23:36:21,616 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pandas\\core\\computation\\__pycache__\\expressions.cpython-38.pyc', reloading
+2021-08-23 23:36:21,618 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pandas\\core\\computation\\__pycache__\\check.cpython-38.pyc', reloading
+2021-08-23 23:36:21,738 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\numexpr\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-08-23 23:36:21,823 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-23 23:36:21,828 root - INFO:DATA VALIDATION: completing >95% NA validation
+2021-08-23 23:36:21,830 root - INFO:DATA VALIDATION: Column validation succesfull
+2021-08-23 23:36:21,831 root - INFO:DATA VALIDATION: started Replacing NA values with NULL
+2021-08-23 23:36:21,867 root - INFO:DATA VALIDATION: ended Replacing NA values with NULL
+2021-08-23 23:36:21,869 root - INFO:DATA VALIDATION: started data moving to good data folder
+2021-08-23 23:36:21,983 root - INFO:DATA VALIDATION: ending data movement to good data folder
+2021-08-23 23:36:21,987 root - INFO:DATA VALIDATION: Ending the Train Validation
+2021-08-23 23:36:22,018 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:36:22,020 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:36:22,022 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-23 23:36:22,024 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-23 23:36:27,496 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:36:27,497 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:36:27,499 root - INFO:DATA VALIDATION: Starting the Train Validation
+2021-08-23 23:36:27,501 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-23 23:36:27,502 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-23 23:36:27,504 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-23 23:36:27,506 root - INFO:DATA VALIDATION: File name is not matched
+2021-08-23 23:36:27,507 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-23 23:36:27,509 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-23 23:36:27,511 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-23 23:36:27,518 root - INFO:DATA VALIDATION: Starting column values and data type check
+2021-08-23 23:36:27,520 root - INFO:DATA VALIDATION: starting column Names validation
+2021-08-23 23:36:27,522 root - INFO:DATA VALIDATION: Ending column Names validation
+2021-08-23 23:36:27,524 root - INFO:DATA VALIDATION: starting column Type validation
+2021-08-23 23:36:27,525 root - INFO:DATA VALIDATION: Ending column Type validation
+2021-08-23 23:36:27,527 root - INFO:DATA VALIDATION: starting >95% Na validation
+2021-08-23 23:36:27,542 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-23 23:36:27,546 root - INFO:DATA VALIDATION: completing >95% NA validation
+2021-08-23 23:36:27,548 root - INFO:DATA VALIDATION: Column validation succesfull
+2021-08-23 23:36:27,549 root - INFO:DATA VALIDATION: started Replacing NA values with NULL
+2021-08-23 23:36:27,552 root - INFO:DATA VALIDATION: ended Replacing NA values with NULL
+2021-08-23 23:36:27,554 root - INFO:DATA VALIDATION: started data moving to good data folder
+2021-08-23 23:36:27,566 root - INFO:DATA VALIDATION: ending data movement to good data folder
+2021-08-23 23:36:27,568 root - INFO:DATA VALIDATION: Ending the Train Validation
+2021-08-23 23:36:27,578 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:36:27,579 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:36:27,581 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-23 23:36:27,583 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-23 23:38:06,416 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:38:06,418 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:38:06,420 root - INFO:DATA VALIDATION: Starting the Train Validation
+2021-08-23 23:38:06,421 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-23 23:38:06,423 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-23 23:38:06,425 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-23 23:38:06,426 root - INFO:DATA VALIDATION: File name is not matched
+2021-08-23 23:38:06,428 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-23 23:38:06,429 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-23 23:38:06,431 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-23 23:38:06,438 root - INFO:DATA VALIDATION: Starting column values and data type check
+2021-08-23 23:38:06,441 root - INFO:DATA VALIDATION: starting column Names validation
+2021-08-23 23:38:06,443 root - INFO:DATA VALIDATION: Ending column Names validation
+2021-08-23 23:38:06,444 root - INFO:DATA VALIDATION: starting column Type validation
+2021-08-23 23:38:06,447 root - INFO:DATA VALIDATION: Ending column Type validation
+2021-08-23 23:38:06,449 root - INFO:DATA VALIDATION: starting >95% Na validation
+2021-08-23 23:38:06,466 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-23 23:38:06,471 root - INFO:DATA VALIDATION: completing >95% NA validation
+2021-08-23 23:38:06,472 root - INFO:DATA VALIDATION: Column validation succesfull
+2021-08-23 23:38:06,474 root - INFO:DATA VALIDATION: started Replacing NA values with NULL
+2021-08-23 23:38:06,476 root - INFO:DATA VALIDATION: ended Replacing NA values with NULL
+2021-08-23 23:38:06,478 root - INFO:DATA VALIDATION: started data moving to good data folder
+2021-08-23 23:38:06,488 root - INFO:DATA VALIDATION: ending data movement to good data folder
+2021-08-23 23:38:06,490 root - INFO:DATA VALIDATION: Ending the Train Validation
+2021-08-23 23:38:06,497 root - INFO:DATA VALIDATION: starting Initialization of Validation object
+2021-08-23 23:38:06,498 root - INFO:DATA VALIDATION: Ending Initialization of Validation object
+2021-08-23 23:38:06,500 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-23 23:38:06,501 root - INFO:DATA VALIDATION: Ended reading TrainSchema json

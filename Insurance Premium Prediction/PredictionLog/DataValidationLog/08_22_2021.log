@@ -1,0 +1,190 @@
+2021-08-22 23:15:01,458 root - INFO:PREDICT DATA: starting Initialization of DataPrediction object
+2021-08-22 23:15:21,222 root - INFO:PREDICT DATA: starting Initialization of DataPrediction object
+2021-08-22 23:15:41,677 root - INFO:PREDICT DATA: starting Initialization of DataPrediction object
+2021-08-22 23:16:48,769 root - INFO:PREDICT DATA: starting Initialization of DataPrediction object
+2021-08-22 23:16:48,771 root - INFO:PREDICT DATA: started data validation
+2021-08-22 23:16:48,773 root - ERROR:PREDICT DATA: Error while validating data ERROR:type object 'TrainValidation' has no attribute '_PredictValidation__init'
+2021-08-22 23:20:34,952 root - INFO:PREDICT DATA: starting Initialization of DataPrediction object
+2021-08-22 23:20:34,954 root - INFO:PREDICT DATA: started data validation
+2021-08-22 23:20:34,973 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-22 23:20:34,975 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-22 23:20:34,976 root - INFO:DATA VALIDATION: Starting the Predict Validation
+2021-08-22 23:20:34,978 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-22 23:20:34,984 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-22 23:20:34,985 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-22 23:20:34,987 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-22 23:20:34,994 root - INFO:DATA VALIDATION: Starting column values and data type check
+2021-08-22 23:20:34,996 root - INFO:DATA VALIDATION: starting column Names validation
+2021-08-22 23:20:34,997 root - INFO:DATA VALIDATION: Ending column Names validation
+2021-08-22 23:20:34,999 root - INFO:DATA VALIDATION: starting column Type validation
+2021-08-22 23:20:35,000 root - INFO:DATA VALIDATION: Ending column Type validation
+2021-08-22 23:20:35,001 root - INFO:DATA VALIDATION: starting >95% Na validation
+2021-08-22 23:20:35,194 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-22 23:20:35,198 root - INFO:DATA VALIDATION: completing >95% NA validation
+2021-08-22 23:20:35,199 root - INFO:DATA VALIDATION: Column validation succesfull
+2021-08-22 23:20:35,201 root - INFO:DATA VALIDATION: started data moving to good data folder
+2021-08-22 23:20:35,220 root - INFO:DATA VALIDATION: ending data movement to good data folder
+2021-08-22 23:20:35,221 root - INFO:DATA VALIDATION: Ending the Predict Validation
+2021-08-22 23:20:35,223 root - INFO:PREDICT DATA: Ended data validation
+2021-08-22 23:20:35,224 root - INFO:PREDICT DATA: started data preparation
+2021-08-22 23:20:35,242 root - INFO:PREDICT DATA: starting get good data
+2021-08-22 23:20:35,255 root - INFO:PREDICT DATA: Ending get good data
+2021-08-22 23:20:35,359 root - ERROR:PREDICT DATA: Error while preparing data ERROR:'numpy.ndarray' object has no attribute 'columns'
+2021-08-22 23:25:13,285 root - INFO:PREDICT DATA: starting Initialization of DataPrediction object
+2021-08-22 23:25:13,287 root - INFO:PREDICT DATA: started data validation
+2021-08-22 23:25:13,291 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-22 23:25:13,292 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-22 23:25:13,293 root - INFO:DATA VALIDATION: Starting the Predict Validation
+2021-08-22 23:25:13,295 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-22 23:25:13,296 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-22 23:25:13,297 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-22 23:25:13,299 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-22 23:25:13,305 root - INFO:DATA VALIDATION: Starting column values and data type check
+2021-08-22 23:25:13,307 root - INFO:DATA VALIDATION: starting column Names validation
+2021-08-22 23:25:13,308 root - INFO:DATA VALIDATION: Ending column Names validation
+2021-08-22 23:25:13,309 root - INFO:DATA VALIDATION: starting column Type validation
+2021-08-22 23:25:13,311 root - INFO:DATA VALIDATION: Ending column Type validation
+2021-08-22 23:25:13,312 root - INFO:DATA VALIDATION: starting >95% Na validation
+2021-08-22 23:25:13,327 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-22 23:25:13,331 root - INFO:DATA VALIDATION: completing >95% NA validation
+2021-08-22 23:25:13,332 root - INFO:DATA VALIDATION: Column validation succesfull
+2021-08-22 23:25:13,333 root - INFO:DATA VALIDATION: started data moving to good data folder
+2021-08-22 23:25:13,341 root - INFO:DATA VALIDATION: ending data movement to good data folder
+2021-08-22 23:25:13,342 root - INFO:DATA VALIDATION: Ending the Predict Validation
+2021-08-22 23:25:13,343 root - INFO:PREDICT DATA: Ended data validation
+2021-08-22 23:25:13,344 root - INFO:PREDICT DATA: started data preparation
+2021-08-22 23:25:13,348 root - INFO:PREDICT DATA: starting get good data
+2021-08-22 23:25:13,361 root - INFO:PREDICT DATA: Ending get good data
+2021-08-22 23:25:13,384 root - INFO:PREDICT DATA: Ended data preparation
+2021-08-22 23:26:14,335 root - INFO:PREDICT DATA: starting Initialization of DataPrediction object
+2021-08-22 23:26:14,337 root - INFO:PREDICT DATA: started data validation
+2021-08-22 23:26:14,341 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-22 23:26:14,343 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-22 23:26:14,344 root - INFO:DATA VALIDATION: Starting the Predict Validation
+2021-08-22 23:26:14,345 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-22 23:26:14,347 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-22 23:26:14,348 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-22 23:26:14,350 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-22 23:26:14,356 root - INFO:DATA VALIDATION: Starting column values and data type check
+2021-08-22 23:26:14,358 root - INFO:DATA VALIDATION: starting column Names validation
+2021-08-22 23:26:14,359 root - INFO:DATA VALIDATION: Ending column Names validation
+2021-08-22 23:26:14,361 root - INFO:DATA VALIDATION: starting column Type validation
+2021-08-22 23:26:14,362 root - INFO:DATA VALIDATION: Ending column Type validation
+2021-08-22 23:26:14,363 root - INFO:DATA VALIDATION: starting >95% Na validation
+2021-08-22 23:26:14,378 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-22 23:26:14,382 root - INFO:DATA VALIDATION: completing >95% NA validation
+2021-08-22 23:26:14,383 root - INFO:DATA VALIDATION: Column validation succesfull
+2021-08-22 23:26:14,384 root - INFO:DATA VALIDATION: started data moving to good data folder
+2021-08-22 23:26:14,392 root - INFO:DATA VALIDATION: ending data movement to good data folder
+2021-08-22 23:26:14,394 root - INFO:DATA VALIDATION: Ending the Predict Validation
+2021-08-22 23:26:14,395 root - INFO:PREDICT DATA: Ended data validation
+2021-08-22 23:26:14,396 root - INFO:PREDICT DATA: started data preparation
+2021-08-22 23:26:14,400 root - INFO:PREDICT DATA: starting get good data
+2021-08-22 23:26:14,412 root - INFO:PREDICT DATA: Ending get good data
+2021-08-22 23:26:14,441 root - INFO:PREDICT DATA: Ended data preparation
+2021-08-22 23:28:11,537 root - INFO:PREDICT DATA: starting Initialization of DataPrediction object
+2021-08-22 23:28:11,539 root - INFO:PREDICT DATA: started data validation
+2021-08-22 23:28:11,546 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-22 23:28:11,548 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-22 23:28:11,550 root - INFO:DATA VALIDATION: Starting the Predict Validation
+2021-08-22 23:28:11,551 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-22 23:28:11,553 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-22 23:28:11,555 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-22 23:28:11,556 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-22 23:28:11,563 root - INFO:DATA VALIDATION: Starting column values and data type check
+2021-08-22 23:28:11,566 root - INFO:DATA VALIDATION: starting column Names validation
+2021-08-22 23:28:11,568 root - INFO:DATA VALIDATION: Ending column Names validation
+2021-08-22 23:28:11,569 root - INFO:DATA VALIDATION: starting column Type validation
+2021-08-22 23:28:11,571 root - INFO:DATA VALIDATION: Ending column Type validation
+2021-08-22 23:28:11,572 root - INFO:DATA VALIDATION: starting >95% Na validation
+2021-08-22 23:28:11,587 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-22 23:28:11,591 root - INFO:DATA VALIDATION: completing >95% NA validation
+2021-08-22 23:28:11,592 root - INFO:DATA VALIDATION: Column validation succesfull
+2021-08-22 23:28:11,593 root - INFO:DATA VALIDATION: started data moving to good data folder
+2021-08-22 23:28:11,601 root - INFO:DATA VALIDATION: ending data movement to good data folder
+2021-08-22 23:28:11,603 root - INFO:DATA VALIDATION: Ending the Predict Validation
+2021-08-22 23:28:11,604 root - INFO:PREDICT DATA: Ended data validation
+2021-08-22 23:28:11,605 root - INFO:PREDICT DATA: started data preparation
+2021-08-22 23:28:11,609 root - INFO:PREDICT DATA: starting get good data
+2021-08-22 23:28:11,622 root - INFO:PREDICT DATA: Ending get good data
+2021-08-22 23:28:11,643 root - INFO:PREDICT DATA: Ended data preparation
+2021-08-22 23:29:48,377 root - INFO:PREDICT DATA: starting Initialization of DataPrediction object
+2021-08-22 23:29:48,379 root - INFO:PREDICT DATA: started data validation
+2021-08-22 23:29:48,383 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-22 23:29:48,385 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-22 23:29:48,386 root - INFO:DATA VALIDATION: Starting the Predict Validation
+2021-08-22 23:29:48,387 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-22 23:29:48,389 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-22 23:29:48,390 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-22 23:29:48,392 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-22 23:29:48,398 root - INFO:DATA VALIDATION: Starting column values and data type check
+2021-08-22 23:29:48,399 root - INFO:DATA VALIDATION: starting column Names validation
+2021-08-22 23:29:48,401 root - INFO:DATA VALIDATION: Ending column Names validation
+2021-08-22 23:29:48,402 root - INFO:DATA VALIDATION: starting column Type validation
+2021-08-22 23:29:48,403 root - INFO:DATA VALIDATION: Ending column Type validation
+2021-08-22 23:29:48,405 root - INFO:DATA VALIDATION: starting >95% Na validation
+2021-08-22 23:29:48,419 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-22 23:29:48,423 root - INFO:DATA VALIDATION: completing >95% NA validation
+2021-08-22 23:29:48,424 root - INFO:DATA VALIDATION: Column validation succesfull
+2021-08-22 23:29:48,425 root - INFO:DATA VALIDATION: started data moving to good data folder
+2021-08-22 23:29:48,433 root - INFO:DATA VALIDATION: ending data movement to good data folder
+2021-08-22 23:29:48,435 root - INFO:DATA VALIDATION: Ending the Predict Validation
+2021-08-22 23:29:48,436 root - INFO:PREDICT DATA: Ended data validation
+2021-08-22 23:29:48,439 root - INFO:PREDICT DATA: started data preparation
+2021-08-22 23:29:48,443 root - INFO:PREDICT DATA: starting get good data
+2021-08-22 23:29:48,456 root - INFO:PREDICT DATA: Ending get good data
+2021-08-22 23:29:48,476 root - INFO:PREDICT DATA: Ended data preparation
+2021-08-22 23:46:19,976 root - INFO:PREDICT DATA: starting Initialization of DataPrediction object
+2021-08-22 23:46:19,977 root - INFO:PREDICT DATA: started data validation
+2021-08-22 23:46:19,981 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-22 23:46:19,983 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-22 23:46:19,984 root - INFO:DATA VALIDATION: Starting the Predict Validation
+2021-08-22 23:46:19,985 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-22 23:46:19,987 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-22 23:46:19,988 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-22 23:46:19,990 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-22 23:46:19,996 root - INFO:DATA VALIDATION: Starting column values and data type check
+2021-08-22 23:46:19,998 root - INFO:DATA VALIDATION: starting column Names validation
+2021-08-22 23:46:19,999 root - INFO:DATA VALIDATION: Ending column Names validation
+2021-08-22 23:46:20,001 root - INFO:DATA VALIDATION: starting column Type validation
+2021-08-22 23:46:20,002 root - INFO:DATA VALIDATION: Ending column Type validation
+2021-08-22 23:46:20,003 root - INFO:DATA VALIDATION: starting >95% Na validation
+2021-08-22 23:46:20,018 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-22 23:46:20,022 root - INFO:DATA VALIDATION: completing >95% NA validation
+2021-08-22 23:46:20,024 root - INFO:DATA VALIDATION: Column validation succesfull
+2021-08-22 23:46:20,025 root - INFO:DATA VALIDATION: started data moving to good data folder
+2021-08-22 23:46:20,032 root - INFO:DATA VALIDATION: ending data movement to good data folder
+2021-08-22 23:46:20,033 root - INFO:DATA VALIDATION: Ending the Predict Validation
+2021-08-22 23:46:20,034 root - INFO:PREDICT DATA: Ended data validation
+2021-08-22 23:46:20,036 root - INFO:PREDICT DATA: started data preparation
+2021-08-22 23:46:20,040 root - INFO:PREDICT DATA: starting get good data
+2021-08-22 23:46:20,053 root - INFO:PREDICT DATA: Ending get good data
+2021-08-22 23:46:20,076 root - INFO:PREDICT DATA: Ended data preparation
+2021-08-22 23:47:16,816 root - INFO:PREDICT DATA: starting Initialization of DataPrediction object
+2021-08-22 23:47:16,819 root - INFO:PREDICT DATA: started data validation
+2021-08-22 23:47:16,823 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-22 23:47:16,825 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-22 23:47:16,827 root - INFO:DATA VALIDATION: Starting the Predict Validation
+2021-08-22 23:47:16,829 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-22 23:47:16,831 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-22 23:47:16,833 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-22 23:47:16,835 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-22 23:47:16,841 root - INFO:DATA VALIDATION: Starting column values and data type check
+2021-08-22 23:47:16,843 root - INFO:DATA VALIDATION: starting column Names validation
+2021-08-22 23:47:16,845 root - INFO:DATA VALIDATION: Ending column Names validation
+2021-08-22 23:47:16,846 root - INFO:DATA VALIDATION: starting column Type validation
+2021-08-22 23:47:16,847 root - INFO:DATA VALIDATION: Ending column Type validation
+2021-08-22 23:47:16,849 root - INFO:DATA VALIDATION: starting >95% Na validation
+2021-08-22 23:47:16,853 root - INFO:DATA VALIDATION: completing >95% NA validation
+2021-08-22 23:47:16,854 root - INFO:DATA VALIDATION: Column validation succesfull
+2021-08-22 23:47:16,855 root - INFO:DATA VALIDATION: started data moving to good data folder
+2021-08-22 23:47:16,861 root - INFO:DATA VALIDATION: ending data movement to good data folder
+2021-08-22 23:47:16,863 root - INFO:DATA VALIDATION: Ending the Predict Validation
+2021-08-22 23:47:16,864 root - INFO:PREDICT DATA: Ended data validation
+2021-08-22 23:47:16,865 root - INFO:PREDICT DATA: started data preparation
+2021-08-22 23:47:16,869 root - INFO:PREDICT DATA: starting get good data
+2021-08-22 23:47:16,882 root - INFO:PREDICT DATA: Ending get good data
+2021-08-22 23:47:16,901 root - INFO:PREDICT DATA: Ended data preparation
+2021-08-22 23:50:03,603 root - INFO:PREDICT DATA: starting Initialization of DataPrediction object
+2021-08-22 23:51:26,881 root - INFO:PREDICT DATA: starting Initialization of DataPrediction object
+2021-08-22 23:55:46,233 root - INFO:PREDICT DATA: starting Initialization of DataPrediction object

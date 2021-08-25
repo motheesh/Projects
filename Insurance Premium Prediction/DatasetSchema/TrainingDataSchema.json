@@ -1,0 +1,14 @@
+{
+  "filename": "insurance",
+  "tablename": "insurance",
+  "pattern": "^insurance_[0-9]{8,8}.csv$",
+  "columnname": {
+    "age": "int",
+    "sex": "object",
+    "bmi": "float",
+    "children": "int",
+    "smoker": "object",
+    "region": "object",
+    "expenses": "float"
+  }
+}

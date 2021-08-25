@@ -1,0 +1,67 @@
+2021-08-24 00:29:29,952 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-24 00:29:29,954 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-24 00:29:29,956 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-24 00:29:29,958 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-24 00:29:36,878 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-24 00:29:36,881 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-24 00:29:36,883 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-24 00:29:36,887 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-24 00:29:39,443 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-24 00:29:39,445 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-24 00:29:39,447 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-24 00:29:39,449 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-24 00:31:15,133 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-24 00:31:15,133 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-24 00:31:15,135 root - INFO:DATA VALIDATION: Starting the Predict Validation
+2021-08-24 00:31:15,137 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-24 00:31:15,139 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-24 00:31:15,140 root - INFO:DATA VALIDATION: starting file name validation
+2021-08-24 00:31:15,142 root - INFO:DATA VALIDATION: ending file name validation
+2021-08-24 00:31:15,212 root - INFO:DATA VALIDATION: Starting column values and data type check
+2021-08-24 00:31:15,214 root - INFO:DATA VALIDATION: starting column Names validation
+2021-08-24 00:31:15,216 root - INFO:DATA VALIDATION: Ending column Names validation
+2021-08-24 00:31:15,217 root - INFO:DATA VALIDATION: starting column Type validation
+2021-08-24 00:31:15,219 root - INFO:DATA VALIDATION: Ending column Type validation
+2021-08-24 00:31:15,220 root - INFO:DATA VALIDATION: starting >95% Na validation
+2021-08-24 00:31:15,237 numexpr.utils - INFO:NumExpr defaulting to 8 threads.
+2021-08-24 00:31:15,240 root - INFO:DATA VALIDATION: completing >95% NA validation
+2021-08-24 00:31:15,242 root - INFO:DATA VALIDATION: Column validation succesfull
+2021-08-24 00:31:15,243 root - INFO:DATA VALIDATION: started data moving to good data folder
+2021-08-24 00:31:15,251 root - INFO:DATA VALIDATION: ending data movement to good data folder
+2021-08-24 00:31:15,252 root - INFO:DATA VALIDATION: Ending the Predict Validation
+2021-08-24 00:34:29,964 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-24 00:34:29,965 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-24 00:34:29,967 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-24 00:34:29,968 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-24 00:34:33,142 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-24 00:34:33,145 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-24 00:34:33,147 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-24 00:34:33,149 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-24 11:09:01,922 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-24 11:09:01,936 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-24 11:09:01,938 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-24 11:09:01,946 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-24 11:10:23,797 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-24 11:10:23,799 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-24 11:10:23,801 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-24 11:10:23,803 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-24 11:15:35,476 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-24 11:15:35,478 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-24 11:15:35,480 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-24 11:15:35,482 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-24 11:18:00,879 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-24 11:18:00,884 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-24 11:18:00,887 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-24 11:18:00,889 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-24 11:18:31,705 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-24 11:18:31,708 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-24 11:18:31,710 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-24 11:18:31,712 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-24 11:21:03,789 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-24 11:21:03,793 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-24 11:21:03,796 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-24 11:21:03,799 root - INFO:DATA VALIDATION: Ended reading TrainSchema json
+2021-08-24 11:24:18,514 root - INFO:DATA VALIDATION: starting Initialization of TrainValidation object
+2021-08-24 11:24:18,518 root - INFO:DATA VALIDATION: Ending Initialization of TrainValidation object
+2021-08-24 11:24:18,521 root - INFO:DATA VALIDATION: Started reading TrainSchema json
+2021-08-24 11:24:18,523 root - INFO:DATA VALIDATION: Ended reading TrainSchema json

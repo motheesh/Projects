@@ -1,0 +1,296 @@
+2021-08-24 00:05:09,207 root - INFO:API CALL: Received request for index page
+2021-08-24 00:05:09,234 root - INFO:API CALL: Responded for index page request
+2021-08-24 00:05:09,260 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:05:09] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-24 00:05:14,281 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:05:14,364 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:05:14,459 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pandas\\io\\formats\\__pycache__\\html.cpython-38.pyc', reloading
+2021-08-24 00:05:14,623 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:05:14] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:06:10,559 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:06:10,574 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:06:10,805 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:06:10] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:06:16,015 root - INFO:API CALL: Received request for index page
+2021-08-24 00:06:16,038 root - INFO:API CALL: Responded for index page request
+2021-08-24 00:06:16,048 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:06:16] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-24 00:06:18,621 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:06:18,706 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:06:18,927 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:06:18] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:07:05,608 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:07:05,622 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:07:05,840 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:07:05] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:07:05,894 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:07:05] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+2021-08-24 00:07:15,303 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:07:15,318 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:07:15,528 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:07:15] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:07:28,221 root - INFO:API CALL: Received request for index page
+2021-08-24 00:07:28,244 root - INFO:API CALL: Responded for index page request
+2021-08-24 00:07:28,246 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:07:28] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-24 00:07:33,900 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:07:33,915 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:07:34,131 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:07:34] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:08:12,975 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:08:12,993 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:08:13,215 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:08:13] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:10:38,234 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:10:38,246 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:10:38,468 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:10:38] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:11:50,342 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:11:50,358 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:11:50,585 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:11:50] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:12:26,339 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:12:26,354 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:12:26,576 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:12:26] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:13:38,817 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:13:38,832 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:13:39,056 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:13:39] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:13:41,367 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:13:41,380 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:13:41,603 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:13:41] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:13:51,087 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:13:51,101 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:13:51,375 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:13:51] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:13:55,498 root - INFO:API CALL: Received request for index page
+2021-08-24 00:13:55,521 root - INFO:API CALL: Responded for index page request
+2021-08-24 00:13:55,523 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:13:55] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-24 00:13:56,915 root - INFO:API CALL: Received get Trained model details request
+2021-08-24 00:13:56,926 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-24 00:13:56,941 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:13:56] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-24 00:13:59,131 root - INFO:API CALL: Received request for index page
+2021-08-24 00:13:59,151 root - INFO:API CALL: Responded for index page request
+2021-08-24 00:13:59,154 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:13:59] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-24 00:14:06,716 root - INFO:API CALL: Received get Trained model details request
+2021-08-24 00:14:06,729 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-24 00:14:06,730 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:14:06] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-24 00:14:10,595 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:14:10,610 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:14:10,817 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:14:10] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:15:35,809 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:15:35,823 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:15:36,047 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:15:36] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:15:44,854 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:15:44,867 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:15:45,095 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:15:45] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:15:56,629 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:15:56,640 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:15:56,863 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:15:56] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:15:59,131 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:15:59,145 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:15:59,368 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:15:59] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:17:25,599 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\DataPrediction\\PredictData.py', reloading
+2021-08-24 00:17:25,599 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\DataPrediction\\PredictData.py', reloading
+2021-08-24 00:17:32,069 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:17:32,082 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:17:32,304 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:17:32] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:18:09,355 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:18:09,370 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:18:09,600 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:18:09] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:18:13,333 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:18:13,347 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:18:13,567 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:18:13] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:18:31,080 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:18:31,098 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:18:31,346 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:18:31] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:18:33,484 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:18:33] "[33mGET /PredictionBatchResult/InsurancePrediction.csv HTTP/1.1[0m" 404 -
+2021-08-24 00:24:18,852 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\DataPrediction\\PredictData.py', reloading
+2021-08-24 00:24:18,854 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\DataPrediction\\PredictData.py', reloading
+2021-08-24 00:24:18,856 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\DataPrediction\\PredictData.py', reloading
+2021-08-24 00:24:18,856 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\DataPrediction\\PredictData.py', reloading
+2021-08-24 00:25:35,584 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:25:35,597 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:25:35,845 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:25:35] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:26:17,603 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:26:17,614 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:26:17,835 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:26:17] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:26:37,815 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:26:37,831 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:26:38,057 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:26:38] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:26:49,917 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:26:49,931 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:26:50,171 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:26:50] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:26:55,316 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:26:55] "[33mGET /PredictionGoodDataset HTTP/1.1[0m" 404 -
+2021-08-24 00:27:13,108 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:27:13,122 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:27:13,367 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:27:13] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:27:14,921 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:27:14,936 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:27:15,158 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:27:15] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:27:16,557 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:27:16,567 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:27:16,772 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:27:16] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:27:25,619 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:27:25,633 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:27:25,866 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:27:25] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:27:27,436 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:27:27,449 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:27:27,660 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:27:27] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:27:30,465 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:27:30,539 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:27:30,747 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:27:30] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:28:49,337 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:28:49,353 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:28:49,572 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:28:49] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:29:06,637 root - INFO:API CALL: Received request for index page
+2021-08-24 00:29:06,656 root - INFO:API CALL: Responded for index page request
+2021-08-24 00:29:06,666 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:29:06] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-24 00:29:08,817 root - INFO:API CALL: Received get Trained model details request
+2021-08-24 00:29:08,828 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-24 00:29:08,832 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:29:08] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-24 00:29:10,826 root - INFO:API CALL: Received request for index page
+2021-08-24 00:29:10,849 root - INFO:API CALL: Responded for index page request
+2021-08-24 00:29:10,850 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:29:10] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-24 00:29:29,934 root - INFO:API CALL: Received request for predicting data
+2021-08-24 00:29:30,059 root - INFO:API CALL: Responded to request for predicting data
+2021-08-24 00:29:30,060 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:29:30] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-24 00:29:36,864 root - INFO:API CALL: Received request for predicting data
+2021-08-24 00:29:36,952 root - INFO:API CALL: Responded to request for predicting data
+2021-08-24 00:29:36,953 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:29:36] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-24 00:29:39,427 root - INFO:API CALL: Received request for predicting data
+2021-08-24 00:29:39,510 root - INFO:API CALL: Responded to request for predicting data
+2021-08-24 00:29:39,511 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:29:39] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-24 00:29:47,867 root - INFO:API CALL: Received get Trained model details request
+2021-08-24 00:29:47,878 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-24 00:29:47,880 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:29:47] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-24 00:29:57,485 root - INFO:API CALL: Received request for index page
+2021-08-24 00:29:57,508 root - INFO:API CALL: Responded for index page request
+2021-08-24 00:29:57,510 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:29:57] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-24 00:30:01,696 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:30:01,710 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:30:01,923 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:30:01] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:30:06,571 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:30:06,586 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:30:06,814 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:30:06] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:30:07,225 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:30:07,235 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:30:07,449 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:30:07] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:30:14,727 root - INFO:API CALL: Received get Trained model details request
+2021-08-24 00:30:14,738 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-24 00:30:14,739 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:30:14] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-24 00:30:16,597 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:30:16,610 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:30:16,839 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:30:16] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:31:15,116 root - INFO:API CALL: Received batch data prediction request
+2021-08-24 00:31:15,444 root - INFO:API CALL: Responded to Batch data prediction request
+2021-08-24 00:31:15,446 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:31:15] "[37mGET /predictBatchData HTTP/1.1[0m" 200 -
+2021-08-24 00:32:42,715 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:32:42,764 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:32:42,987 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:32:42] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:33:02,300 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:33:02,312 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:33:02,818 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:33:02] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:33:09,187 root - INFO:API CALL: Received request for index page
+2021-08-24 00:33:09,211 root - INFO:API CALL: Responded for index page request
+2021-08-24 00:33:09,213 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:33:09] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-24 00:33:13,210 root - INFO:API CALL: Received get Trained model details request
+2021-08-24 00:33:13,224 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-24 00:33:13,226 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:33:13] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-24 00:33:47,280 root - INFO:API CALL: Received request for index page
+2021-08-24 00:33:47,297 root - INFO:API CALL: Responded for index page request
+2021-08-24 00:33:47,298 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:33:47] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-24 00:33:51,240 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:33:51,255 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:33:51,469 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:33:51] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:34:17,148 root - INFO:API CALL: Received request for index page
+2021-08-24 00:34:17,200 root - INFO:API CALL: Responded for index page request
+2021-08-24 00:34:17,220 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:34:17] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-24 00:34:29,951 root - INFO:API CALL: Received request for predicting data
+2021-08-24 00:34:30,027 root - INFO:API CALL: Responded to request for predicting data
+2021-08-24 00:34:30,028 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:34:30] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-24 00:34:33,128 root - INFO:API CALL: Received request for predicting data
+2021-08-24 00:34:33,210 root - INFO:API CALL: Responded to request for predicting data
+2021-08-24 00:34:33,211 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:34:33] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-24 00:34:40,783 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 00:34:40,798 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 00:34:41,014 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:34:41] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 00:34:48,085 root - INFO:API CALL: Received request for index page
+2021-08-24 00:34:48,108 root - INFO:API CALL: Responded for index page request
+2021-08-24 00:34:48,109 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:34:48] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-24 00:34:52,513 root - INFO:API CALL: Received get Trained model details request
+2021-08-24 00:34:52,526 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-24 00:34:52,528 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:34:52] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-24 00:34:56,101 root - INFO:API CALL: Received request for index page
+2021-08-24 00:34:56,117 root - INFO:API CALL: Responded for index page request
+2021-08-24 00:34:56,118 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 00:34:56] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-24 00:42:59,162 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\werkzeug\\exceptions.py', reloading
+2021-08-24 11:08:48,686 root - INFO:API CALL: Received request for index page
+2021-08-24 11:08:49,103 root - INFO:API CALL: Responded for index page request
+2021-08-24 11:08:49,160 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\jinja2\\__pycache__\\ext.cpython-38.pyc', reloading
+2021-08-24 11:08:49,283 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:08:49] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-24 11:08:49,283 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-38.pyc', reloading
+2021-08-24 11:08:49,374 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:08:49] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+2021-08-24 11:08:50,328 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:08:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-08-24 11:09:01,793 root - INFO:API CALL: Received request for predicting data
+2021-08-24 11:09:02,508 root - INFO:API CALL: Responded to request for predicting data
+2021-08-24 11:09:02,510 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:09:02] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-24 11:09:34,084 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-24 11:09:34,085 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-24 11:09:34,138 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-24 11:09:34,139 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-24 11:10:04,323 root - INFO:API CALL: Received request for index page
+2021-08-24 11:10:04,345 root - INFO:API CALL: Responded for index page request
+2021-08-24 11:10:04,363 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:10:04] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-24 11:10:23,780 root - INFO:API CALL: Received request for predicting data
+2021-08-24 11:10:23,905 root - INFO:API CALL: Responded to request for predicting data
+2021-08-24 11:10:23,905 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:10:23] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-24 11:15:04,639 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-24 11:15:04,640 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-24 11:15:04,642 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-24 11:15:05,017 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-24 11:15:05,018 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-24 11:15:05,020 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-24 11:15:35,458 root - INFO:API CALL: Received request for predicting data
+2021-08-24 11:15:35,551 root - INFO:API CALL: Responded to request for predicting data
+2021-08-24 11:15:35,552 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:15:35] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-24 11:16:26,680 root - INFO:API CALL: Received request for index page
+2021-08-24 11:16:26,709 root - INFO:API CALL: Responded for index page request
+2021-08-24 11:16:26,743 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:16:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-24 11:16:51,870 root - INFO:API CALL: Received request for index page
+2021-08-24 11:16:51,892 root - INFO:API CALL: Responded for index page request
+2021-08-24 11:16:52,031 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:16:52] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-24 11:17:16,206 root - INFO:API CALL: Received request for index page
+2021-08-24 11:17:16,230 root - INFO:API CALL: Responded for index page request
+2021-08-24 11:17:16,255 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:17:16] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-24 11:17:33,934 root - INFO:API CALL: Received request for index page
+2021-08-24 11:17:33,961 root - INFO:API CALL: Responded for index page request
+2021-08-24 11:17:33,979 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:17:33] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-24 11:17:46,976 root - INFO:API CALL: Received request for index page
+2021-08-24 11:17:47,002 root - INFO:API CALL: Responded for index page request
+2021-08-24 11:17:47,024 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:17:47] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-24 11:18:00,860 root - INFO:API CALL: Received request for predicting data
+2021-08-24 11:18:00,949 root - INFO:API CALL: Responded to request for predicting data
+2021-08-24 11:18:00,949 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:18:00] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-24 11:18:19,258 root - INFO:API CALL: Received request for index page
+2021-08-24 11:18:19,283 root - INFO:API CALL: Responded for index page request
+2021-08-24 11:18:19,305 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:18:19] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-24 11:18:31,685 root - INFO:API CALL: Received request for predicting data
+2021-08-24 11:18:31,784 root - INFO:API CALL: Responded to request for predicting data
+2021-08-24 11:18:31,785 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:18:31] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-24 11:19:43,865 root - INFO:API CALL: Received get Trained model details request
+2021-08-24 11:19:43,925 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-24 11:19:43,980 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:19:43] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-24 11:19:47,212 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 11:19:47,271 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 11:19:47,389 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pandas\\io\\formats\\__pycache__\\html.cpython-38.pyc', reloading
+2021-08-24 11:19:47,574 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:19:47] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 11:20:55,070 root - INFO:API CALL: Received request for index page
+2021-08-24 11:20:55,129 root - INFO:API CALL: Responded for index page request
+2021-08-24 11:20:55,148 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:20:55] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-24 11:21:03,771 root - INFO:API CALL: Received request for predicting data
+2021-08-24 11:21:03,873 root - INFO:API CALL: Responded to request for predicting data
+2021-08-24 11:21:03,874 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:21:03] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-24 11:21:19,096 root - INFO:API CALL: Received get Trained model details request
+2021-08-24 11:21:19,191 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-24 11:21:19,196 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:21:19] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-24 11:21:26,161 root - INFO:API CALL: Received get batch predicted results request
+2021-08-24 11:21:26,177 root - INFO:API CALL: Responded to get batch predicted results request
+2021-08-24 11:21:26,412 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:21:26] "[37mGET /getPredcitedBatchResults HTTP/1.1[0m" 200 -
+2021-08-24 11:21:34,949 root - INFO:API CALL: Received get Trained model details request
+2021-08-24 11:21:34,967 root - INFO:API CALL: Responded to get Trained model details request
+2021-08-24 11:21:34,970 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:21:34] "[37mGET /getTrainedModelDetails HTTP/1.1[0m" 200 -
+2021-08-24 11:21:41,958 root - INFO:API CALL: Received request for index page
+2021-08-24 11:21:41,986 root - INFO:API CALL: Responded for index page request
+2021-08-24 11:21:41,988 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:21:41] "[37mGET /index HTTP/1.1[0m" 200 -
+2021-08-24 11:24:18,499 root - INFO:API CALL: Received request for predicting data
+2021-08-24 11:24:18,593 root - INFO:API CALL: Responded to request for predicting data
+2021-08-24 11:24:18,594 werkzeug - INFO:127.0.0.1 - - [24/Aug/2021 11:24:18] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-08-24 11:33:44,247 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-24 11:33:44,285 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
+2021-08-24 11:33:44,286 werkzeug - INFO: * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\projects\\Insurance Premium Prediction\\main.py', reloading
