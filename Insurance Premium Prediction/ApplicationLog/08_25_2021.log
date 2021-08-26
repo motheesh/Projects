@@ -1,0 +1,8 @@
+2021-08-25 22:17:21,270 root - INFO:API CALL: Received request for index page
+2021-08-25 22:17:22,026 root - INFO:API CALL: Responded for index page request
+2021-08-25 22:17:22,216 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\jinja2\\__pycache__\\ext.cpython-38.pyc', reloading
+2021-08-25 22:17:47,751 root - INFO:API CALL: Received request for index page
+2021-08-25 22:17:48,490 root - INFO:API CALL: Responded for index page request
+2021-08-25 22:17:49,089 werkzeug - INFO:127.0.0.1 - - [25/Aug/2021 22:17:49] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-25 22:17:49,089 werkzeug - INFO: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-38.pyc', reloading
+2021-08-25 22:17:49,998 werkzeug - INFO:127.0.0.1 - - [25/Aug/2021 22:17:49] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -

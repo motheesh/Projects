@@ -1,0 +1,5 @@
+2021-08-26 16:47:51,161 root - INFO:API CALL: Received request for index page
+2021-08-26 16:47:52,138 root - INFO:API CALL: Responded for index page request
+2021-08-26 16:47:53,470 werkzeug - INFO:127.0.0.1 - - [26/Aug/2021 16:47:53] "GET / HTTP/1.1" 200 -
+2021-08-26 16:47:54,134 werkzeug - INFO:127.0.0.1 - - [26/Aug/2021 16:47:54] "GET /static/js/index.js HTTP/1.1" 200 -
+2021-08-26 16:47:55,305 werkzeug - INFO:127.0.0.1 - - [26/Aug/2021 16:47:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
