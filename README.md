@@ -10,8 +10,8 @@ The goal of this project is to give people an estimate of how much they need bas
  ■ Heroku is used for deployment.
 
 ## Installation
- Install with pip:
- $ pip install -r requirements.txt
+ - Install with pip:
+ - $ pip install -r requirements.txt
 
 ## Flask Configuration
  Config.py
